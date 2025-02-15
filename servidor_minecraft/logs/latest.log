@@ -1046,3 +1046,11 @@
 [15Feb2025 03:57:57.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ariel231 (086c72a6-2ef4-33b1-9214-58a8feb219ca) successfully connected to voice chat
 [15Feb2025 03:58:22.528] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [15Feb2025 03:58:58.244] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[15Feb2025 03:59:55.296] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[15Feb2025 04:01:50.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the weather to clear]
+[15Feb2025 04:01:52.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Monster Hunter]
+[15Feb2025 04:04:42.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Hunt and Gather]
+[15Feb2025 04:05:36.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[15Feb2025 04:07:36.827] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[15Feb2025 04:09:28.800] [Worker-Main39/WARN] [ModernFix/]: The namespace apocalypsenow contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[15Feb2025 04:09:32.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]

@@ -2,9 +2,7 @@
 	id: "5eda23fa-cedc-3fce-b677-f1ca7d036561"
 	type: "player"
 	player_name: "Midab"
-	ranks: {
-		5eda23fa-cedc-3fce-b677-f1ca7d036561: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Midab"
 		"ftbteams:description": ""

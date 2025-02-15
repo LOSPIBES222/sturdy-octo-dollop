@@ -1,0 +1,22 @@
+{
+	id: "75b0ed95-f883-40b6-a278-cee8625bfbe6"
+	type: "party"
+	owner: "5eda23fa-cedc-3fce-b677-f1ca7d036561"
+	ranks: {
+		086c72a6-2ef4-33b1-9214-58a8feb219ca: "member"
+		5eda23fa-cedc-3fce-b677-f1ca7d036561: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Midab's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739592420436L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Midab\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "5eda23fa-cedc-3fce-b677-f1ca7d036561", date: 1739592420445L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ariel231\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739592433493L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"ariel231\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}
