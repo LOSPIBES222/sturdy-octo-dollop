@@ -1130,3 +1130,25 @@
 [15Feb2025 05:08:36.749] [Server thread/INFO] [tac/]: PENDING
 [15Feb2025 05:08:38.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
 [15Feb2025 05:09:20.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[15Feb2025 05:10:30.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 was slain by Runner
+[15Feb2025 05:10:30.939] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Feb2025 05:10:30.939] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[15Feb2025 05:10:30.939] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[15Feb2025 05:10:30.939] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[15Feb2025 05:10:30.940] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[15Feb2025 05:10:31.677] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[15Feb2025 05:10:32.176] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[15Feb2025 05:10:33.275] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[15Feb2025 05:10:33.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[15Feb2025 05:10:33.454] [Server thread/INFO] [tac/]: PENDING
+[15Feb2025 05:10:42.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
+[15Feb2025 05:11:05.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
+[15Feb2025 05:11:07.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[15Feb2025 05:11:13.951] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[15Feb2025 05:11:37.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the time to 1000]
+[15Feb2025 05:12:00.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[15Feb2025 05:16:21.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the weather to clear]
+[15Feb2025 05:17:57.632] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[15Feb2025 05:17:59.026] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[15Feb2025 05:20:05.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Suit Up]
+[15Feb2025 05:20:31.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 was slain by Zombie
