@@ -1,0 +1,1010 @@
+[15Feb2025 03:38:02.175] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[15Feb2025 03:38:02.186] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[15Feb2025 03:38:05.932] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sturdy-octo-dollop/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[15Feb2025 03:38:06.949] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sturdy-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[15Feb2025 03:38:06.955] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sturdy-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[15Feb2025 03:38:06.956] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sturdy-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[15Feb2025 03:38:06.959] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sturdy-octo-dollop/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[15Feb2025 03:38:07.305] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15Feb2025 03:38:07.307] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[15Feb2025 03:38:14.161] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Feb2025 03:38:14.695] [main/ERROR] [mixin/]: Mixin config customvillagertrades.mixins.json does not specify "minVersion" property
+[15Feb2025 03:38:14.833] [main/ERROR] [mixin/]: Mixin config drg_flares.mixins.json does not specify "minVersion" property
+[15Feb2025 03:38:15.006] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[15Feb2025 03:38:15.009] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[15Feb2025 03:38:15.013] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.car.MixinConnector]
+[15Feb2025 03:38:15.025] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Feb2025 03:38:15.069] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Feb2025 03:38:15.198] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.13.0+mc1.18.2: 74 options available, 2 override(s) found
+[15Feb2025 03:38:15.199] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.item_cache_flag' overriden (by mods [canary]) to 'false'
+[15Feb2025 03:38:15.199] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[15Feb2025 03:38:15.200] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15Feb2025 03:38:15.225] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15Feb2025 03:38:15.466] [main/WARN] [CanaryConfig/]: Mod 'pluto' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[15Feb2025 03:38:15.474] [main/INFO] [Canary/]: Loaded configuration file for Canary: 118 options available, 1 override(s) found
+[15Feb2025 03:38:15.508] [main/WARN] [mixin/]: Reference map 'insanelib.refmap.json' for insanelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Feb2025 03:38:15.526] [main/WARN] [mixin/]: Reference map 'ritchiesprojectilelib-forge-refmap.json' for ritchiesprojectilelib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Feb2025 03:38:15.605] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Feb2025 03:38:15.664] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Feb2025 03:38:15.697] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Feb2025 03:38:17.489] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER
+[15Feb2025 03:38:17.490] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/resources/model/ModelBakery (java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER)
+[15Feb2025 03:38:17.490] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.resources.model.ModelBakery was not found lightspeed.mixins.json:model.ModelBakeryMixin
+[15Feb2025 03:38:17.510] [main/WARN] [mixin/]: Error loading class: com/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: com.brewinandchewin.common.block.entity.KegBlockEntity)
+[15Feb2025 03:38:17.510] [main/WARN] [mixin/]: @Mixin target com.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:accessors.brewinandchewin.KegBlockEntityAccessor
+[15Feb2025 03:38:17.871] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: com.farmersrespite.common.block.entity.KettleBlockEntity)
+[15Feb2025 03:38:17.871] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:accessors.farmersrespite.KettleBlockEntityAccessor
+[15Feb2025 03:38:17.878] [main/WARN] [mixin/]: Error loading class: com/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: com.brewinandchewin.common.block.entity.KegBlockEntity)
+[15Feb2025 03:38:17.878] [main/WARN] [mixin/]: @Mixin target com.brewinandchewin.common.block.entity.KegBlockEntity was not found thirst.mixin.json:brewinandchewin.MixinKegBlockEntity
+[15Feb2025 03:38:17.934] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/KettleBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.KettleBlock)
+[15Feb2025 03:38:17.935] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.KettleBlock was not found thirst.mixin.json:farmersrespite.MixinKettleBlock
+[15Feb2025 03:38:17.938] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: com.farmersrespite.common.block.entity.KettleBlockEntity)
+[15Feb2025 03:38:17.938] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.entity.KettleBlockEntity was not found thirst.mixin.json:farmersrespite.MixinKettleBlockEntity
+[15Feb2025 03:38:17.942] [main/WARN] [mixin/]: Error loading class: snownee/jade/addon/forge/ForgeCapabilityProvider (java.lang.ClassNotFoundException: snownee.jade.addon.forge.ForgeCapabilityProvider)
+[15Feb2025 03:38:17.942] [main/WARN] [mixin/]: @Mixin target snownee.jade.addon.forge.ForgeCapabilityProvider was not found thirst.mixin.json:jade.MixinForgeCapabilityProvider
+[15Feb2025 03:38:17.946] [main/WARN] [mixin/]: Error loading class: toughasnails/item/EmptyCanteenItem (java.lang.ClassNotFoundException: toughasnails.item.EmptyCanteenItem)
+[15Feb2025 03:38:17.946] [main/WARN] [mixin/]: @Mixin target toughasnails.item.EmptyCanteenItem was not found thirst.mixin.json:toughasnails.MixinEmptyCanteenItem
+[15Feb2025 03:38:17.951] [main/WARN] [mixin/]: Error loading class: toughasnails/config/ServerConfig (java.lang.ClassNotFoundException: toughasnails.config.ServerConfig)
+[15Feb2025 03:38:17.951] [main/WARN] [mixin/]: @Mixin target toughasnails.config.ServerConfig was not found thirst.mixin.json:toughasnails.MixinServerConfig
+[15Feb2025 03:38:17.954] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHandler (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHandler)
+[15Feb2025 03:38:17.955] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHandler was not found thirst.mixin.json:toughasnails.MixinThirstHandler
+[15Feb2025 03:38:17.958] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHelperImpl (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHelperImpl)
+[15Feb2025 03:38:17.958] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHelperImpl was not found thirst.mixin.json:toughasnails.MixinThirstHelperImpl
+[15Feb2025 03:38:18.704] [main/WARN] [mixin/]: Error loading class: net/diebuddies/physics/ModExecutor (java.lang.ClassNotFoundException: net.diebuddies.physics.ModExecutor)
+[15Feb2025 03:38:18.704] [main/WARN] [mixin/]: @Mixin target net.diebuddies.physics.ModExecutor was not found dcfixes.mixins.json:physicsmod.ModExecutorMixin
+[15Feb2025 03:38:18.793] [main/WARN] [mixin/]: Error loading class: mezz/jei/transfer/RecipeTransferUtil (java.lang.ClassNotFoundException: mezz.jei.transfer.RecipeTransferUtil)
+[15Feb2025 03:38:18.794] [main/WARN] [mixin/]: @Mixin target mezz.jei.transfer.RecipeTransferUtil was not found polymorph_integrations.mixins.json:jei.MixinRecipeTransferUtil
+[15Feb2025 03:38:18.897] [main/WARN] [Canary/]: Force-disabling mixin 'world.chunk_access.ChunkHolderMixin' as rule 'mixin.world.chunk_access' (added by user configuration) disables it and children
+[15Feb2025 03:38:18.898] [main/WARN] [Canary/]: Force-disabling mixin 'world.chunk_access.LevelMixin' as rule 'mixin.world.chunk_access' (added by user configuration) disables it and children
+[15Feb2025 03:38:18.900] [main/WARN] [Canary/]: Force-disabling mixin 'world.chunk_access.ServerChunkCacheMixin' as rule 'mixin.world.chunk_access' (added by user configuration) disables it and children
+[15Feb2025 03:38:19.530] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AnvilScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.AnvilScreen)
+[15Feb2025 03:38:19.530] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AnvilScreen was not found ante.mixins.json:AnvilScreenMixin
+[15Feb2025 03:38:20.004] [main/WARN] [mixin/]: Error loading class: com/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: com.brewinandchewin.common.block.entity.KegBlockEntity)
+[15Feb2025 03:38:20.004] [main/WARN] [mixin/]: @Mixin target com.brewinandchewin.common.block.entity.KegBlockEntity was not found create_central_kitchen.mixins.json:common.brewinandchewin.KegBlockEntityMixin
+[15Feb2025 03:38:20.120] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeBushBlock)
+[15Feb2025 03:38:20.120] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin
+[15Feb2025 03:38:20.124] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeBushTopBlock)
+[15Feb2025 03:38:20.124] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin
+[15Feb2025 03:38:20.126] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeDoubleStemBlock)
+[15Feb2025 03:38:20.126] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin
+[15Feb2025 03:38:20.129] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeMiddleStemBlock)
+[15Feb2025 03:38:20.129] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin
+[15Feb2025 03:38:20.133] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeStemBlock)
+[15Feb2025 03:38:20.133] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin
+[15Feb2025 03:38:20.137] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: com.farmersrespite.common.block.entity.KettleBlockEntity)
+[15Feb2025 03:38:20.137] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
+[15Feb2025 03:38:20.140] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.SmallTeaBushBlock)
+[15Feb2025 03:38:20.140] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin
+[15Feb2025 03:38:20.144] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.TeaBushBlock)
+[15Feb2025 03:38:20.144] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin
+[15Feb2025 03:38:20.147] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[15Feb2025 03:38:20.147] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[15Feb2025 03:38:20.151] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[15Feb2025 03:38:20.152] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
+[15Feb2025 03:38:20.157] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[15Feb2025 03:38:20.157] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[15Feb2025 03:38:20.847] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0-beta.2).
+[15Feb2025 03:38:21.526] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[15Feb2025 03:38:21.956] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (22.31 s after launch)
+[15Feb2025 03:38:22.313] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[15Feb2025 03:38:22.314] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[15Feb2025 03:38:22.314] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[15Feb2025 03:38:22.314] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into m_60823_ from com.abdelaziz.canary.mixin.block.flatten_states.BlockStateBaseMixin
+[15Feb2025 03:38:22.314] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[15Feb2025 03:38:24.235] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[15Feb2025 03:38:26.291] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4331 milliseconds
+[15Feb2025 03:38:27.188] [main/WARN] [mixin/]: @Final field f_58646_:[[Lnet/minecraft/world/effect/MobEffect; in cold_sweat.mixin.json:MixinBeaconEffects should be final
+[15Feb2025 03:38:27.189] [main/WARN] [mixin/]: @Final field f_58647_:Ljava/util/Set; in cold_sweat.mixin.json:MixinBeaconEffects should be final
+[15Feb2025 03:38:27.785] [main/INFO] [net.minecraftforge.coremod.CoreMod.beefix/COREMODLOG]: BeehiveBlockEntity patch being skipped; not needed in this version
+[15Feb2025 03:38:29.116] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::snr$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
+[15Feb2025 03:38:31.538] [modloading-worker-0/INFO] [com.blamejared.contenttweaker.core.ContentTweakerCore/]: Successfully injected Trundle file system
+[15Feb2025 03:38:31.694] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
+[15Feb2025 03:38:31.762] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[15Feb2025 03:38:31.775] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[15Feb2025 03:38:31.993] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
+[15Feb2025 03:38:32.058] [modloading-worker-0/INFO] [net.permutated.novillagerdm.NoVillagerDeathMessages/]: Registering mod: novillagerdm
+[15Feb2025 03:38:32.081] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker loading
+[15Feb2025 03:38:32.132] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[15Feb2025 03:38:32.257] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15Feb2025 03:38:32.418] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[15Feb2025 03:38:32.604] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15Feb2025 03:38:33.200] [modloading-worker-0/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1200
+[15Feb2025 03:38:33.442] [modloading-worker-0/INFO] [Kiwi/Init]: Processing 3 KiwiModule annotations
+[15Feb2025 03:38:33.480] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[15Feb2025 03:38:33.480] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[15Feb2025 03:38:33.566] [modloading-worker-0/INFO] [com.blamejared.contenttweaker.core.ContentTweakerCore/]: CrT plugin initialized: bootstrapping CoT plugins
+[15Feb2025 03:38:33.579] [modloading-worker-0/INFO] [com.blamejared.contenttweaker.core.ContentTweakerCore/]: Successfully identified and loaded plugin contenttweaker:vanilla
+[15Feb2025 03:38:33.581] [modloading-worker-0/INFO] [com.blamejared.contenttweaker.core.ContentTweakerCore/]: Successfully identified and loaded plugin contenttweaker:forge
+[15Feb2025 03:38:33.621] [modloading-worker-0/WARN] [mixin/]: @Redirect conflict. Skipping modernfix-forge.mixins.json:perf.datapack_reload_exceptions.LootTableManagerMixin->@Redirect::logWithoutStacktrace(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 2000, already redirected by railways-common.mixins.json:MixinLootTables->@Redirect::snr$error2(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 10000
+[15Feb2025 03:38:34.150] [modloading-worker-0/INFO] [dcfixes/]: Fixing DeceasedCraft
+[15Feb2025 03:38:35.240] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[15Feb2025 03:38:35.808] [modloading-worker-0/INFO] [oretweaker/]: Creating Ore Tweaker directory :: /workspaces/sturdy-octo-dollop/servidor_minecraft/config/oretweaker
+[15Feb2025 03:38:35.809] [modloading-worker-0/INFO] [oretweaker/]: Creating Ore Tweaker directory :: /workspaces/sturdy-octo-dollop/servidor_minecraft/config/oretweaker/templates
+[15Feb2025 03:38:35.809] [modloading-worker-0/INFO] [oretweaker/]: Creating Ore Tweaker directory :: /workspaces/sturdy-octo-dollop/servidor_minecraft/config/oretweaker/backup
+[15Feb2025 03:38:35.809] [modloading-worker-0/INFO] [oretweaker/]: Creating Ore Tweaker directory :: /workspaces/sturdy-octo-dollop/servidor_minecraft/config/oretweaker/data
+[15Feb2025 03:38:35.819] [modloading-worker-0/INFO] [oretweaker/]: Creating Ore Tweaker directory :: /workspaces/sturdy-octo-dollop/servidor_minecraft/config/oretweaker/templates/defaults
+[15Feb2025 03:38:35.820] [modloading-worker-0/INFO] [oretweaker/]: Creating Ore Tweaker directory :: /workspaces/sturdy-octo-dollop/servidor_minecraft/config/oretweaker/templates/remove
+[15Feb2025 03:38:36.208] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 6.53.
+[15Feb2025 03:38:36.394] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] New update detected, showing update message!
+[15Feb2025 03:38:36.532] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[15Feb2025 03:38:36.559] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[15Feb2025 03:38:36.612] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[15Feb2025 03:38:36.613] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[15Feb2025 03:38:36.615] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[15Feb2025 03:38:36.618] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[15Feb2025 03:38:36.620] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[15Feb2025 03:38:36.789] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[15Feb2025 03:38:36.800] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[15Feb2025 03:38:36.813] [modloading-worker-0/ERROR] [KubeJS/]: Failed to load plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration from source kubejs: java.lang.NoClassDefFoundError: net/darkhax/gamestages/event/GameStageEvent
+[15Feb2025 03:38:36.817] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ftbquests
+[15Feb2025 03:38:36.822] [modloading-worker-0/INFO] [KubeJS/]: Done in 32.99 ms
+[15Feb2025 03:38:36.960] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[15Feb2025 03:38:37.118] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[15Feb2025 03:38:37.120] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[15Feb2025 03:38:37.160] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.18.2
+[15Feb2025 03:38:37.280] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.161 s
+[15Feb2025 03:38:37.728] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded mutation_sickness_check.js
+[15Feb2025 03:38:37.740] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:mutation_ignore.js in 0.127 s
+[15Feb2025 03:38:37.750] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:ore_removal.js in 0.009 s
+[15Feb2025 03:38:37.766] [modloading-worker-0/INFO] [KubeJS Startup/]: Hello, World! (You will only see this line once in console, during startup)
+[15Feb2025 03:38:37.767] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:script.js in 0.016 s
+[15Feb2025 03:38:37.775] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:abyss_portal.js in 0.007 s
+[15Feb2025 03:38:37.782] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 4/4 KubeJS startup scripts in 0.767 s
+[15Feb2025 03:38:37.801] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[15Feb2025 03:38:37.811] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[15Feb2025 03:38:37.859] [modloading-worker-0/WARN] [KubeJS Startup/]: Class filter is disabled!
+[15Feb2025 03:38:37.865] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[15Feb2025 03:38:37.928] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[15Feb2025 03:38:37.931] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[15Feb2025 03:38:37.934] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[15Feb2025 03:38:37.937] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[15Feb2025 03:38:37.940] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[15Feb2025 03:38:37.947] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[15Feb2025 03:38:37.952] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[15Feb2025 03:38:37.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[15Feb2025 03:38:37.952] [modloading-worker-0/INFO] [railways/]: Registered bogey styles from railways
+[15Feb2025 03:38:37.968] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[15Feb2025 03:38:37.969] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[15Feb2025 03:38:37.982] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[15Feb2025 03:38:37.985] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[15Feb2025 03:38:37.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[15Feb2025 03:38:37.993] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[15Feb2025 03:38:37.994] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[15Feb2025 03:38:37.997] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[15Feb2025 03:38:38.001] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[15Feb2025 03:38:38.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[15Feb2025 03:38:38.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[15Feb2025 03:38:38.009] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[15Feb2025 03:38:38.013] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[15Feb2025 03:38:38.022] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[15Feb2025 03:38:38.076] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15Feb2025 03:38:38.100] [modloading-worker-0/INFO] [railways/]: Registering data fixers
+[15Feb2025 03:38:38.112] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15Feb2025 03:38:38.136] [modloading-worker-0/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key tac:aiming for minecraft:living_entity
+[15Feb2025 03:38:38.141] [modloading-worker-0/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key tac:shooting for minecraft:living_entity
+[15Feb2025 03:38:38.142] [modloading-worker-0/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key tac:reloading for minecraft:living_entity
+[15Feb2025 03:38:38.146] [modloading-worker-0/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key tac:moving for minecraft:living_entity
+[15Feb2025 03:38:38.147] [modloading-worker-0/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key tac:stop_anima for minecraft:living_entity
+[15Feb2025 03:38:38.147] [modloading-worker-0/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key tac:qrepairing for minecraft:living_entity
+[15Feb2025 03:38:38.367] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[15Feb2025 03:38:38.367] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Feb2025 03:38:38.371] [modloading-worker-0/INFO] [me.steinborn.lazydfu.LazyDFU/]: Lazy DFU
+[15Feb2025 03:38:38.541] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15Feb2025 03:38:38.576] [modloading-worker-0/WARN] [mixin/]: @Redirect conflict. Skipping modernfix-forge.mixins.json:perf.datapack_reload_exceptions.RecipeManagerMixin->@Redirect::silenceException(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 2000, already redirected by railways-common.mixins.json:MixinRecipeManager->@Redirect::snr$error(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 10000
+[15Feb2025 03:38:39.337] [modloading-worker-0/INFO] [tv.mapper.embellishcraft.EmbellishCraft/]: 1.2- EmbellishCraft: block listing.
+[15Feb2025 03:38:39.500] [modloading-worker-0/INFO] [railways/]: Registering tracks for Hex Casting
+[15Feb2025 03:38:39.501] [modloading-worker-0/INFO] [railways/]: Registering tracks for Oh The Biomes You'll Go
+[15Feb2025 03:38:39.503] [modloading-worker-0/INFO] [railways/]: Registering tracks for Blue Skies
+[15Feb2025 03:38:39.507] [modloading-worker-0/INFO] [railways/]: Registering tracks for Twilight Forest
+[15Feb2025 03:38:39.509] [modloading-worker-0/INFO] [railways/]: Registering tracks for Biomes O' Plenty
+[15Feb2025 03:38:39.532] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15Feb2025 03:38:40.120] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[15Feb2025 03:38:40.135] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15Feb2025 03:38:42.452] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `snow`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:42.455] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `snow`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:45.363] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
+[15Feb2025 03:38:46.511] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `create_central_kitchen`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:46.788] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `crossbow`, expected `crossbowverhaul`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.167] [main/INFO] [tv.mapper.embellishcraft.EmbellishCraft/]: 1.3- EmbellishCraft: TE registering.
+[15Feb2025 03:38:47.168] [main/INFO] [tv.mapper.embellishcraft.EmbellishCraft/]: EmbellishCraft: if this line crashes please report to https://github.com/MapperTV/embellishcraft/issues/19
+[15Feb2025 03:38:47.232] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `multishot`, expected `crossbowverhaul`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.597] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.598] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.720] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: The object flaxbeard.immersivepetroleum.common.util.IPEffects$AntiFireEffect@517569f9 has been registered twice for the same name immersivepetroleum:anti_fire.
+[15Feb2025 03:38:47.731] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_minimap`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.731] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_minimap_harmful`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.732] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_entity_radar`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.732] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_entity_radar_harmful`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.732] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_waypoints`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.733] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_waypoints_harmful`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.733] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_waypoints_beneficial`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.733] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_cave_maps`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.733] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `xaerominimap` for name `no_cave_maps_harmful`, expected `xaerominimapfair`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.738] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[15Feb2025 03:38:47.738] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
+[15Feb2025 03:38:48.087] [main/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Enhanced Celestials registered: minecraft:sound_event
+[15Feb2025 03:38:48.671] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[15Feb2025 03:38:48.672] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[15Feb2025 03:38:50.555] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[15Feb2025 03:38:50.856] [modloading-worker-0/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading Open Parties and Claims!
+[15Feb2025 03:38:50.860] [modloading-worker-0/INFO] [net.mcreator.agsdaycounter.AgDayCounterMod/]: [Day Counter] Loading config file...
+[15Feb2025 03:38:50.861] [modloading-worker-0/INFO] [net.mcreator.agsdaycounter.AgDayCounterMod/]: [Day Counter] Config file successfuly loaded!
+[15Feb2025 03:38:50.921] [modloading-worker-0/INFO] [dev.wuffs.bcc.BCC/]: Better Compatibility Checker setting up
+[15Feb2025 03:38:50.982] [modloading-worker-0/INFO] [snowrealmagic/]: SereneSeasons detected. Overriding melting behavior.
+[15Feb2025 03:38:51.060] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 17
+[15Feb2025 03:38:51.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: Global Forge version check system disabled, no further processing.
+[15Feb2025 03:38:51.131] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[15Feb2025 03:38:51.156] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[15Feb2025 03:38:51.156] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[15Feb2025 03:38:51.157] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[15Feb2025 03:38:51.168] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[15Feb2025 03:38:51.169] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[15Feb2025 03:38:51.169] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Serene Seasons
+[15Feb2025 03:38:51.176] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[15Feb2025 03:38:51.186] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[15Feb2025 03:38:51.192] [modloading-worker-0/INFO] [incontrol/]: Reading rules from spawn.json
+[15Feb2025 03:38:51.398] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[15Feb2025 03:38:51.406] [modloading-worker-0/INFO] [incontrol/]: Reading rules from summonaid.json
+[15Feb2025 03:38:51.414] [modloading-worker-0/INFO] [incontrol/]: Reading rules from loot.json
+[15Feb2025 03:38:51.443] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[15Feb2025 03:38:51.449] [modloading-worker-0/INFO] [incontrol/]: Reading rules from experience.json
+[15Feb2025 03:38:51.450] [modloading-worker-0/INFO] [incontrol/]: Reading rules from phases.json
+[15Feb2025 03:38:51.452] [modloading-worker-0/INFO] [incontrol/]: Reading rules from special.json
+[15Feb2025 03:38:51.455] [modloading-worker-0/INFO] [incontrol/]: Reading rules from spawner.json
+[15Feb2025 03:38:51.491] [modloading-worker-0/INFO] [tv.mapper.mapperbase.MapperBase/]: Mapper Base setup started! Thank you for using my mods!
+[15Feb2025 03:38:51.491] [modloading-worker-0/INFO] [tv.mapper.embellishcraft.EmbellishCraft/]: EmbellishCraft: setup started.
+[15Feb2025 03:38:51.492] [modloading-worker-0/INFO] [tv.mapper.embellishcraft.EmbellishCraft/]: EmbellishCraft worldgen is disabled by config.
+[15Feb2025 03:38:51.497] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[15Feb2025 03:38:51.539] [modloading-worker-0/INFO] [fxcontrol/]: Enabling support for Lost Cities
+[15Feb2025 03:38:51.539] [modloading-worker-0/INFO] [fxcontrol/]: Enabling support for Lost Cities
+[15Feb2025 03:38:51.540] [modloading-worker-0/INFO] [fxcontrol/]: Enabling support for Serene Seasons
+[15Feb2025 03:38:51.553] [modloading-worker-0/INFO] [fxcontrol/]: Reading rules from effects.json
+[15Feb2025 03:38:51.582] [modloading-worker-0/INFO] [fxcontrol/]: Loaded 2 rules!
+[15Feb2025 03:38:51.583] [modloading-worker-0/INFO] [fxcontrol/]: Reading rules from breakevents.json
+[15Feb2025 03:38:51.584] [modloading-worker-0/INFO] [fxcontrol/]: Loaded 0 rules!
+[15Feb2025 03:38:51.593] [modloading-worker-0/INFO] [fxcontrol/]: Reading rules from placeevents.json
+[15Feb2025 03:38:51.594] [modloading-worker-0/INFO] [fxcontrol/]: Loaded 0 rules!
+[15Feb2025 03:38:51.595] [modloading-worker-0/INFO] [fxcontrol/]: Reading rules from rightclicks.json
+[15Feb2025 03:38:51.597] [modloading-worker-0/INFO] [fxcontrol/]: Loaded 1 rules!
+[15Feb2025 03:38:51.598] [modloading-worker-0/INFO] [fxcontrol/]: Reading rules from leftclicks.json
+[15Feb2025 03:38:51.598] [modloading-worker-0/INFO] [fxcontrol/]: Loaded 0 rules!
+[15Feb2025 03:38:51.621] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[15Feb2025 03:38:51.624] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[15Feb2025 03:38:51.625] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[15Feb2025 03:38:51.626] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[15Feb2025 03:38:51.627] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[15Feb2025 03:38:51.627] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[15Feb2025 03:38:51.628] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[15Feb2025 03:38:51.629] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[15Feb2025 03:38:51.629] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[15Feb2025 03:38:51.630] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[15Feb2025 03:38:51.631] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[15Feb2025 03:38:51.672] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[15Feb2025 03:38:51.695] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[15Feb2025 03:38:51.695] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[15Feb2025 03:38:51.695] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
+[15Feb2025 03:38:51.696] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
+[15Feb2025 03:38:51.696] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[15Feb2025 03:38:51.696] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[15Feb2025 03:38:51.717] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / cgm:workbench]' to registry
+[15Feb2025 03:38:51.718] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[15Feb2025 03:38:51.718] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[15Feb2025 03:38:51.718] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[15Feb2025 03:38:51.942] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[15Feb2025 03:38:51.943] [modloading-worker-0/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[15Feb2025 03:38:51.985] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15Feb2025 03:38:51.985] [main/INFO] [xaero.common.MinimapLogs/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[15Feb2025 03:38:52.152] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor sets and bonuses
+[15Feb2025 03:38:52.157] [modloading-worker-0/INFO] [oretweaker/]: Reading data: clay.json
+[15Feb2025 03:38:52.159] [modloading-worker-0/INFO] [oretweaker/]: Reading data: gravel.json
+[15Feb2025 03:38:52.156] [modloading-worker-0/INFO] [customvillagertrades/]: CVT MESSAGE: Loading custom villager trades from file: wanderer.json
+[15Feb2025 03:38:52.161] [modloading-worker-0/INFO] [oretweaker/]: Reading data: redstone_ore.json
+[15Feb2025 03:38:52.161] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 46 compatible attributes.
+[15Feb2025 03:38:52.162] [modloading-worker-0/INFO] [oretweaker/]: Reading data: andesite.json
+[15Feb2025 03:38:52.164] [modloading-worker-0/INFO] [oretweaker/]: Reading data: tuff.json
+[15Feb2025 03:38:52.165] [modloading-worker-0/INFO] [oretweaker/]: Reading data: diorite.json
+[15Feb2025 03:38:52.165] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.military_riot.title
+[15Feb2025 03:38:52.166] [modloading-worker-0/INFO] [oretweaker/]: Reading data: lapis_ore.json
+[15Feb2025 03:38:52.167] [modloading-worker-0/INFO] [oretweaker/]: Reading data: diamond_ore.json
+[15Feb2025 03:38:52.168] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.forest_ghillie.title
+[15Feb2025 03:38:52.168] [modloading-worker-0/INFO] [oretweaker/]: Reading data: nether_gold_ore.json
+[15Feb2025 03:38:52.170] [modloading-worker-0/INFO] [oretweaker/]: Reading data: iron_ore.json
+[15Feb2025 03:38:52.170] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.spec_ops.title
+[15Feb2025 03:38:52.172] [modloading-worker-0/INFO] [oretweaker/]: Reading data: magma_block.json
+[15Feb2025 03:38:52.173] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.swat_riot.title
+[15Feb2025 03:38:52.173] [modloading-worker-0/INFO] [oretweaker/]: Reading data: jade.json
+[15Feb2025 03:38:52.174] [modloading-worker-0/INFO] [oretweaker/]: Reading data: slate.json
+[15Feb2025 03:38:52.174] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.swat.title
+[15Feb2025 03:38:52.175] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_copper_ore.json
+[15Feb2025 03:38:52.175] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_diamond_ore.json
+[15Feb2025 03:38:52.175] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.bombsquad.title
+[15Feb2025 03:38:52.176] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_zinc_ore.json
+[15Feb2025 03:38:52.176] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 46 values from config.
+[15Feb2025 03:38:52.177] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.forest_guard.title
+[15Feb2025 03:38:52.177] [modloading-worker-0/INFO] [oretweaker/]: Reading data: marble.json
+[15Feb2025 03:38:52.178] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.juggernaut.title
+[15Feb2025 03:38:52.179] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_gold_ore.json
+[15Feb2025 03:38:52.180] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.police.title
+[15Feb2025 03:38:52.181] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_redstone_ore.json
+[15Feb2025 03:38:52.182] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.construction.title
+[15Feb2025 03:38:52.182] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_lapis_ore.json
+[15Feb2025 03:38:52.183] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.biker.title
+[15Feb2025 03:38:52.183] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_uranium_ore.json
+[15Feb2025 03:38:52.183] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.hunting.title
+[15Feb2025 03:38:52.184] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_emerald_ore.json
+[15Feb2025 03:38:52.184] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.military_urban.title
+[15Feb2025 03:38:52.186] [modloading-worker-0/INFO] [oretweaker/]: Reading data: magma_block.json
+[15Feb2025 03:38:52.186] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.ballistic.title
+[15Feb2025 03:38:52.187] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_silver_ore.json
+[15Feb2025 03:38:52.188] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.army_general.title
+[15Feb2025 03:38:52.189] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.motorcyclist.title
+[15Feb2025 03:38:52.189] [modloading-worker-0/INFO] [oretweaker/]: Reading data: basalt.json
+[15Feb2025 03:38:52.190] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.nurse.title
+[15Feb2025 03:38:52.192] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_lead_ore.json
+[15Feb2025 03:38:52.193] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.officer.title
+[15Feb2025 03:38:52.197] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_bauxite_ore.json
+[15Feb2025 03:38:52.197] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.military_beret.title
+[15Feb2025 03:38:52.198] [modloading-worker-0/INFO] [oretweaker/]: Reading data: gneiss.json
+[15Feb2025 03:38:52.198] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.soldier.title
+[15Feb2025 03:38:52.200] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.anarchist.title
+[15Feb2025 03:38:52.201] [modloading-worker-0/INFO] [oretweaker/]: Reading data: larvikite.json
+[15Feb2025 03:38:52.202] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.national_army.title
+[15Feb2025 03:38:52.203] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_nickel_ore.json
+[15Feb2025 03:38:52.203] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.sports.title
+[15Feb2025 03:38:52.204] [modloading-worker-0/INFO] [oretweaker/]: Reading data: deepslate_iron_ore.json
+[15Feb2025 03:38:52.204] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.fire_fighter.title
+[15Feb2025 03:38:52.206] [modloading-worker-0/INFO] [oretweaker/]: Reading data: netherrack.json
+[15Feb2025 03:38:52.206] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.snow_ghillie.title
+[15Feb2025 03:38:52.208] [modloading-worker-0/INFO] [oretweaker/]: Reading data: ancient_debris.json
+[15Feb2025 03:38:52.209] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.hazmat.title
+[15Feb2025 03:38:52.209] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 46 entries.
+[15Feb2025 03:38:52.210] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 46 attributes.
+[15Feb2025 03:38:52.210] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.radiation.title
+[15Feb2025 03:38:52.211] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.football.title
+[15Feb2025 03:38:52.210] [modloading-worker-0/INFO] [oretweaker/]: Reading data: coal_ore.json
+[15Feb2025 03:38:52.211] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.un_army.title
+[15Feb2025 03:38:52.212] [modloading-worker-0/INFO] [oretweaker/]: Reading data: dirt.json
+[15Feb2025 03:38:52.212] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.sand_ghillie.title
+[15Feb2025 03:38:52.212] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.military_aviation.title
+[15Feb2025 03:38:52.212] [modloading-worker-0/INFO] [oretweaker/]: Reading data: copper_ore.json
+[15Feb2025 03:38:52.213] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.fighter.title
+[15Feb2025 03:38:52.214] [modloading-worker-0/INFO] [oretweaker/]: Reading data: granite.json
+[15Feb2025 03:38:52.214] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.biohazard.title
+[15Feb2025 03:38:52.215] [modloading-worker-0/INFO] [oretweaker/]: Reading data: soul_sand.json
+[15Feb2025 03:38:52.215] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Loading armor set: armors.royal_police.title
+[15Feb2025 03:38:52.216] [modloading-worker-0/INFO] [spacecatasb/]: ASB MESSAGE: Finished loading a total of 34 armor sets and bonuses with 0 errors.
+[15Feb2025 03:38:52.216] [modloading-worker-0/INFO] [oretweaker/]: Reading data: emerald_ore.json
+[15Feb2025 03:38:52.217] [modloading-worker-0/INFO] [oretweaker/]: Reading data: blackstone.json
+[15Feb2025 03:38:52.217] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id spacecatasb:networking_channel/695c919422d23ac1913883a5d4c7eaa6
+[15Feb2025 03:38:52.218] [modloading-worker-0/INFO] [oretweaker/]: Reading data: infested.json
+[15Feb2025 03:38:52.219] [modloading-worker-0/INFO] [oretweaker/]: Reading data: gold_ore.json
+[15Feb2025 03:38:52.220] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id spacecatasb:networking_channel/e12f8dbf5c503667968bd7f26c6d6251
+[15Feb2025 03:38:52.220] [modloading-worker-0/INFO] [oretweaker/]: Reading data: nether_quartz_ore.json
+[15Feb2025 03:38:52.221] [modloading-worker-0/INFO] [oretweaker/]: com.ewyboy.oretweaker.json.objects.OreConfig@5b873510
+[15Feb2025 03:38:52.776] [main/INFO] [pro.mikey.mods.dsp.DSPInit/]: No default-server.properties exist in the games root path... ignoring default injection
+[15Feb2025 03:38:52.806] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Feb2025 03:38:53.582] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/sturdy-octo-dollop/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23226!/assets/.mcassetsroot' uses unexpected schema
+[15Feb2025 03:38:53.582] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/sturdy-octo-dollop/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23226!/data/.mcassetsroot' uses unexpected schema
+[15Feb2025 03:38:53.720] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file saturn-mc1.18.2-0.1.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.723] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file StackablePotions-forge-1.18.2-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.723] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file GlobalGameRules-1.18.1-6.0.0.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.723] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file supermartijn642configlib-1.1.6-forge-mc1.18.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.724] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file nocube's_zombie_mobs_1.4.0_forge_1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.724] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file open-parties-and-claims-forge-1.18.2-0.20.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.724] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file player-animation-lib-forge-1.0.2+1.18.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.724] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file nerb-1.18.2-0.3-FORGE.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.725] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.725] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ContentTweaker-forge-1.18.2-1.0.0+13.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.725] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file day_counter_v3.0_1.18.2_[FORGE].jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.725] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file modernfix-forge-5.13.0+mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.725] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsApi-1.18.2-Forge-2.2.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.726] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file MaxHealthFix-Forge-1.18.2-5.0.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.726] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file guardvillagers-1.18.2.1.4.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.726] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file The-Hordes-1.18.2-1.5.3a.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.726] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file balm-3.2.1+0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.727] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file SnowRealMagic-1.18.2-forge-4.2.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.727] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cloth-config-6.4.90-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.727] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file emojiful-1.18.2-3.0.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.727] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file refinedstorage-1.10.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.727] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file durabilitytooltip-1.1.4-forge-mc1.18.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.728] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file novillagerdm-1.18.1-3.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.728] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file corpse-1.18.2-1.0.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.728] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file BetterCompatibilityChecker-1.1.21-build.48+mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.728] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file BiomesOPlenty-1.18.2-16.0.0.109-universal.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.728] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file supermartijn642corelib-1.1.12-forge-mc1.18.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.729] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file spark-1.10.38-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.729] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lightspeed-1.18.2-1.0.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.729] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file curios-forge-1.18.2-5.0.7.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.729] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file DietaryStatistics+1.0.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.729] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ThirstWasTaken-1.18.2-1.3.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.729] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Atlas-Lib-1.18.2-1.1.8.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.730] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file pluto-mc1.18.2-0.0.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.730] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cfm-7.0.0-pre35-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.731] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file EnhancedAI-1.6.11-mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.732] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mobtimizations-forge-1.18.2-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.732] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file FastLeafDecay-28.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.733] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file YungsBetterMineshafts-1.18.2-Forge-2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.733] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file geckolib-forge-1.18-3.0.57.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.734] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Kiwi-1.18.2-forge-6.1.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.734] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file puffish_skills-0.10.0-1.18.2-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.735] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file createbigcannons-forge-1.18.2-0.5.3.b.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.735] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cgm-1.3.3-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.736] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file harvestwithease-1.18.2-6.1.0.0-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.737] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file treeharvester-1.18.2-8.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.737] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file jei-1.18.2-forge-10.2.1.1005.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.737] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file vmh-1.2.2-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.738] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Nameless+Trinkets-1.18.2-1.7.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.738] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file AttributeFix-Forge-1.18.2-14.0.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.739] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Pehkui-3.7.11+1.18.2-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.739] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file fastasyncworldsave-1.18.2-1.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.739] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file NaturesCompass-1.18.2-1.9.7-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.740] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Serene+Seasons-1.18.2-7.0.0.13.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.740] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file starlight-1.0.2+forge.546ae87.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.741] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file BeeFix-1.18-1.0.7.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.741] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ClickMachine-1.18.2-6.0.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.741] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file JEITweaker-1.18.2-3.0.0.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.742] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file CraftTweaker-forge-1.18.2-9.1.211.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.742] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ImmersivePetroleum-1.18.2-4.2.0-25.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.743] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file forge-1.18.2-40.2.21-universal.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.743] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file chalk-1.18.2-1.4.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.743] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file THEUNDEADREVAMPED_0.9e_1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.744] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Log-Begone-Forge-1.18-1.0.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.744] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file smoothchunk-1.18.2-1.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.745] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file SimpleBackups-1.18.2-1.1.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.745] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file voicechat-forge-1.18.2-2.4.28.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.745] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file theoneprobe-1.18-5.1.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.746] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file TerraBlender-forge-1.18.2-1.2.0.126.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.746] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file MouseTweaks-forge-mc1.18-2.21.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.747] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file bettercombat-forge-1.6.2+1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.747] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file DeceasedCraftFixes-1.0.7+1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.747] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file CreateTweaker-1.18.2-2.0.0.20.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.748] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file kffmod-3.10.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.748] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file pipez-1.18.2-1.1.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.749] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file flywheel-forge-1.18.2-0.6.10-105.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.749] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file polymorph-forge-1.18.2-0.46.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.749] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file AutoRegLib-1.7-53.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.750] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file [1.18.2]+SecurityCraft+v1.9.7.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.750] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file crittersandcompanions-1.18.2-1.0.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.750] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file canary-mc1.18.2-0.3.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.751] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file FastFurnace-1.18.2-6.0.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.751] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lootr-1.18.2-0.3.25.63.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.751] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ColdSweat-2.2.5.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.752] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file CosmeticArmorReworked-1.18.2-v2a.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.752] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file xptome-1.18.2-2.1.7.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.753] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Zombie+Extreme+1.18.2+0.2.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.753] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file incontrol-1.18-6.1.13.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.753] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file connectivity-1.18.2-3.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.754] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file sophisticatedcore-1.18.2-0.5.106.502.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.754] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file InsaneLib-1.5.3-mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.754] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file structureessentials-1.18.2-3.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.755] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file nanhealthfixer-1.18.2-0.0.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.755] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ritchiesprojectilelib-1.0.0-3a68f88+1.18.2-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.755] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file XaerosWorldMap_1.37.3_Forge_1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.755] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file EnhancedVisuals_FORGE_v1.6.4_mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.756] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Placebo-1.18.2-6.6.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.756] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file citadel-1.11.3-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.756] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file alexsmobs-1.18.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.756] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file zombieawareness-1.18.1-1.12.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.756] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mixinextras-forge-0.4.0-beta.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.756] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file sophisticatedbackpacks-1.18.2-3.19.1.959.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.757] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file simpleplanes-1.18.2-5.2.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.757] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Steam_Rails-1.4.8+forge-mc1.18.2-build.23.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.757] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file carryon-1.18.2-1.17.0.8.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.757] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file paladin-furniture-mod-1.2.1-forge-mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.757] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file MmmMmmMmmMmm-1.18.2-1.5.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.757] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file OreTweaker-1.18.2-3.4.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.757] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file FarmersDelight-1.18.2-1.2.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.758] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file getittogetherdrops-forge-1.18.2-1.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.758] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file customportalapi-0.0.5-forge-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.758] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file simpleshops-1.2.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.758] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Chunky-1.2.164.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.758] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Apocalyspe_Now_1.18.2_v2.0.7.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.758] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file simplylight-1.18.2-1.4.5-build.43.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.758] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Patchouli-1.18.2-71.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file collective-1.18.2-6.53.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file camera-1.18.2-1.0.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Xaeros_Minimap_FP23.9.4_Forge_1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lostcities-1.18-5.3.29.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lostsouls-1.18-2.0.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file starterkit-1.18.2-5.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file architectury-4.11.93-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.759] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ftb-library-forge-1802.3.9-build.167.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.760] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file customvillagertrades-forge-18.24.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.760] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ftb-teams-forge-1802.2.9-build.88.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.760] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file spacecatasb-forge-18.13.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.760] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file AI-Improvements-1.18.2-0.5.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.761] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file cupboard-1.18.2-1.5.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.761] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file trashcans-1.0.18-forge-mc1.18.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.761] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file framework-0.4.2-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.761] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file AnvilNeverTooExpensive-1.18-1.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file rhino-forge-1802.2.1-build.255.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file kubejs-forge-1802.5.5-build.567.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file trashslot-forge-1.18.2-11.0.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ReadyPlayerFun-1.18.2-1.4.1.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file spiderstpo-1.18.2-2.0.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file item-filters-forge-1802.2.8-build.47.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ftb-quests-forge-1802.3.15-build.298.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file tac-0.3.10.1-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.762] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file create-1.18.2-0.5.1.f.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file createdeco-1.3.3-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file create_central_kitchen-1.18.2-for-create-0.5.1.f-1.3.9.d.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file BuildersDelight-1.18.2-v.1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file FastSuite-1.18.2-3.0.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Clumps-forge-1.18.2-8.0.0+17.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file comforts-forge-1.18.2-5.0.0.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file artifacts-1.18.2-4.2.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.763] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file alternate-current-mc1.18-1.2.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file configured-2.0.0-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file lazydfu-1.0-1.18+.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ExplorersCompass-1.18.2-1.3.0-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file drg_flares-1.18-forge-1.2.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mapperbase-1.18.2-4.0.1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file embellishcraft-1.18.2-5.0.1.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file fixedanvilrepaircost-1.18.2-3.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.764] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file watut-forge-1.18.2-1.0.14.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.765] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file firstaid-1.11.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.765] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file toofast-1.18-0.0.1.3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.765] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file jeimultiblocks-1.18.2-0.0.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.765] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ImmersivePosts-1.18.2-4.3.0-3.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.765] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ImmersiveEngineering-1.18.2-8.4.0-161.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file selene-1.18.2-1.17.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file default-server-properties-1.0.1-build.10+mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file fxcontrol-1.18-3.0.9.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file swingthroughgrass-1.18.2-1.9.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mixinsquared-forge-0.1.2-beta.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file another_furniture-forge-1.2.2-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file CreativeCore_FORGE_v2.6.15_mc1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.766] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file smoothboot(reloaded)-mc1.18.2-0.0.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.767] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ThisRocks-1.18.2-1.0.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.767] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file car-1.18.2-1.0.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.767] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file easy_villagers-1.18.2-1.0.11.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.767] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Iceberg-1.18.2-forge-1.0.49.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.767] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Quark-3.2-358.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.767] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file diet-forge-1.18.2-1.3.2.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.768] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file create-stuff-additions1.18.2_v2.0.4a.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.768] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file mobsunscreen-1.18.1-3.0.4.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.768] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file FastWorkbench-1.18.2-6.1.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.768] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file StorageDrawers-1.18.2-10.2.1.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.768] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ParCool-1.18.2-3.1.0.6-R.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.768] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file coroutil-forge-1.18.2-1.3.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.768] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Mutationcraft_1.18.2_1.0.6.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.769] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file ferritecore-4.2.2-forge.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.769] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file SoL-Carrot-1.18.1-1.12.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.769] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file Enhanced_Celestials-forge-1.18.2-2.0.7.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.769] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file crossbowverhaul-1.18.2-1.4.1-universal.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.769] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file eh1.2-1.18.2.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.770] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file expandability-6.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:53.770] [main/WARN] [ModernFix/]: PathResourcePack base class instantiated with root path of mod file createaddition-1.18.2-1.0.0.jar. This probably means a mod should be calling ResourcePackLoader.createPackForMod instead. Applying workaround.
+[15Feb2025 03:38:56.827] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shaped
+[15Feb2025 03:38:56.828] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shapeless
+[15Feb2025 03:38:56.828] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shaped
+[15Feb2025 03:38:56.828] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shapeless
+[15Feb2025 03:38:56.829] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:stonecutting
+[15Feb2025 03:38:56.829] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smelting
+[15Feb2025 03:38:56.829] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:blasting
+[15Feb2025 03:38:56.830] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smoking
+[15Feb2025 03:38:56.830] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:campfire_cooking
+[15Feb2025 03:38:56.830] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smithing
+[15Feb2025 03:38:57.629] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.630] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.638] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.638] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.639] [main/INFO] [oretweaker/]: Filler :: minecraft:netherrack
+[15Feb2025 03:38:57.639] [main/INFO] [oretweaker/]: Filler Name :: netherrack
+[15Feb2025 03:38:57.640] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.640] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.640] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.640] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.641] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.641] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.643] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.643] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.644] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.644] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.644] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.644] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.644] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.645] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.645] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.645] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.646] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.646] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.646] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.646] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.647] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.647] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.647] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.647] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.647] [main/INFO] [oretweaker/]: Filler :: minecraft:netherrack
+[15Feb2025 03:38:57.648] [main/INFO] [oretweaker/]: Filler Name :: netherrack
+[15Feb2025 03:38:57.648] [main/INFO] [oretweaker/]: Filler :: minecraft:netherrack
+[15Feb2025 03:38:57.648] [main/INFO] [oretweaker/]: Filler Name :: netherrack
+[15Feb2025 03:38:57.648] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.649] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.649] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.650] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.650] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.650] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.650] [main/INFO] [oretweaker/]: Filler :: minecraft:netherrack
+[15Feb2025 03:38:57.650] [main/INFO] [oretweaker/]: Filler Name :: netherrack
+[15Feb2025 03:38:57.650] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.650] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.651] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.651] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.651] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.651] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.651] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.651] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.651] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.652] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.652] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.652] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.652] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.652] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.652] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.652] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.653] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.653] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.653] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.653] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.654] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.654] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.654] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.654] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.655] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.655] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.655] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.655] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.655] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.656] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.656] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.656] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.656] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.656] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.656] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.656] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler :: minecraft:deepslate
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler Name :: deepslate
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.657] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.658] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.658] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.658] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.658] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.658] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.658] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.658] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.659] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.659] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.659] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.659] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.659] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.659] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.660] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.660] [main/INFO] [oretweaker/]: Filler :: minecraft:netherrack
+[15Feb2025 03:38:57.660] [main/INFO] [oretweaker/]: Filler Name :: netherrack
+[15Feb2025 03:38:57.660] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.660] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.660] [main/INFO] [oretweaker/]: Filler :: minecraft:netherrack
+[15Feb2025 03:38:57.660] [main/INFO] [oretweaker/]: Filler Name :: netherrack
+[15Feb2025 03:38:57.661] [main/INFO] [oretweaker/]: Filler :: base_stone_overworld
+[15Feb2025 03:38:57.661] [main/INFO] [oretweaker/]: Filler Name :: base_stone_overworld
+[15Feb2025 03:38:57.661] [main/INFO] [oretweaker/]: Filler :: deepslate_ore_replaceables
+[15Feb2025 03:38:57.661] [main/INFO] [oretweaker/]: Filler Name :: deepslate_ore_replaceables
+[15Feb2025 03:38:57.661] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.661] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.662] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.662] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.662] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.662] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:38:57.662] [main/INFO] [oretweaker/]: Filler :: stone_ore_replaceables
+[15Feb2025 03:38:57.662] [main/INFO] [oretweaker/]: Filler Name :: stone_ore_replaceables
+[15Feb2025 03:39:00.685] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 03:39:00.687] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 03:39:00.690] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.691] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.693] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Feb2025 03:39:00.695] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [ftbteams, info, server_id] and [ftbteams, info, team] with inputs: [server_id]
+[15Feb2025 03:39:00.697] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [openpac-parties, about, player] and [openpac-parties, about, profile] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.699] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [openpac-parties, about, profile] and [openpac-parties, about, player] with inputs: [Player, 0123]
+[15Feb2025 03:39:00.700] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [hordes, spawnWave, count] and [hordes, spawnWave, player] with inputs: [0, -123, 123]
+[15Feb2025 03:39:00.701] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [hordes, spawnWave, player] and [hordes, spawnWave, count] with inputs: [0123]
+[15Feb2025 03:39:00.703] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [hordes, start, length] and [hordes, start, player] with inputs: [0, -123, 123]
+[15Feb2025 03:39:00.704] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [hordes, start, player] and [hordes, start, length] with inputs: [0123]
+[15Feb2025 03:39:00.706] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[15Feb2025 03:39:00.707] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[15Feb2025 03:39:00.708] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15Feb2025 03:39:00.710] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15Feb2025 03:39:00.711] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[15Feb2025 03:39:00.713] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[15Feb2025 03:39:00.714] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15Feb2025 03:39:00.716] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[15Feb2025 03:39:00.717] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[15Feb2025 03:39:00.719] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[15Feb2025 03:39:00.720] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[15Feb2025 03:39:00.721] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[15Feb2025 03:39:00.722] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[15Feb2025 03:39:00.724] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.725] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [railways, split_train, train_id] and [railways, split_train, train_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.726] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.726] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.727] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.728] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.730] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:00.730] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Feb2025 03:39:01.394] [Worker-Main5/INFO] [tac/]: YO_DATA_GUN
+[15Feb2025 03:39:03.623] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_plate recipe (createaddition:rolling/aluminum_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.687] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.720] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.752] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/nickel_rod recipe (createaddition:rolling/nickel_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.762] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_plate recipe (createaddition:rolling/steel_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.798] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_ingot recipe (createaddition:rolling/steel_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.804] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/lead_rod recipe (createaddition:rolling/lead_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.823] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.825] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_ingot recipe (createaddition:rolling/aluminum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.855] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.864] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/lead_plate recipe (createaddition:rolling/lead_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.883] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.901] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.952] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/uranium_rod recipe (createaddition:rolling/uranium_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.956] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.996] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:03.997] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.033] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/constantan_rod recipe (createaddition:rolling/constantan_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.045] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/silver_rod recipe (createaddition:rolling/silver_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.074] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_rod recipe (createaddition:rolling/electrum_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.088] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.160] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_plate recipe (createaddition:rolling/aluminum_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.185] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.203] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.218] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/nickel_rod recipe (createaddition:rolling/nickel_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.227] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_plate recipe (createaddition:rolling/steel_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.252] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_ingot recipe (createaddition:rolling/steel_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.256] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/lead_rod recipe (createaddition:rolling/lead_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.274] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.275] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_ingot recipe (createaddition:rolling/aluminum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.295] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.304] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/lead_plate recipe (createaddition:rolling/lead_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.316] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.327] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.354] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/uranium_rod recipe (createaddition:rolling/uranium_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.356] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.375] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.376] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.398] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/constantan_rod recipe (createaddition:rolling/constantan_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.405] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/silver_rod recipe (createaddition:rolling/silver_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.418] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_rod recipe (createaddition:rolling/electrum_rod) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.423] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:04.453] [Worker-Main13/INFO] [ModernFix/]: Clearing KubeJS recipe lists...
+[15Feb2025 03:39:05.238] [Worker-Main13/INFO] [placebo/]: Registered 1 additional loot tables.
+[15Feb2025 03:39:05.603] [Worker-Main13/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 613 advancements
+[15Feb2025 03:39:05.613] [Worker-Main13/INFO] [placebo/]: Registered 1 additional recipes.
+[15Feb2025 03:39:05.617] [Worker-Main13/INFO] [immersivepetroleum/]: Loading Distillation Recipes.
+[15Feb2025 03:39:05.621] [Worker-Main13/INFO] [immersivepetroleum/]: Loading Reservoirs.
+[15Feb2025 03:39:05.623] [Worker-Main13/INFO] [immersivepetroleum/]: Loading Coker-Unit Recipes.
+[15Feb2025 03:39:05.625] [Worker-Main13/INFO] [immersivepetroleum/]: Loading High-Pressure Refinery Recipes.
+[15Feb2025 03:39:05.660] [Worker-Main13/ERROR] [tac/]: Missing required properties for tac:medium_steel_armor
+[15Feb2025 03:39:05.665] [Worker-Main13/ERROR] [tac/]: Missing required properties for tac:cardboard_armor
+[15Feb2025 03:39:05.672] [Worker-Main13/ERROR] [tac/]: Missing required properties for tac:armor_test
+[15Feb2025 03:39:05.680] [Worker-Main13/ERROR] [tac/]: Missing required properties for tac:light_armor
+[15Feb2025 03:39:06.045] [Worker-Main13/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 60 Soft Fluids
+[15Feb2025 03:39:06.056] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 0
+[15Feb2025 03:39:06.056] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.057] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.057] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+[15Feb2025 03:39:06.057] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_75
+[15Feb2025 03:39:06.057] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+[15Feb2025 03:39:06.057] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.057] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.058] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 1, min day 0 and max day 0
+[15Feb2025 03:39:06.058] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_30
+[15Feb2025 03:39:06.058] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+[15Feb2025 03:39:06.058] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.058] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.058] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.059] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.059] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 3, min day 0 and max day 0
+[15Feb2025 03:39:06.059] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_105
+[15Feb2025 03:39:06.059] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 25, min day 0 and max day 0
+[15Feb2025 03:39:06.059] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.060] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.060] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 1, min day 0 and max day 0
+[15Feb2025 03:39:06.060] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_45
+[15Feb2025 03:39:06.060] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+[15Feb2025 03:39:06.060] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.060] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.061] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.061] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+[15Feb2025 03:39:06.061] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_135
+[15Feb2025 03:39:06.061] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+[15Feb2025 03:39:06.061] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.061] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:patient_zero as entity.zombie_extreme.patient_zero with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.061] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.062] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.062] [Worker-Main13/INFO] [hordes/]: Loaded entity mutationcraft:human_herder as entity.mutationcraft.human_herder with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.062] [Worker-Main13/INFO] [hordes/]: Loaded entity mutationcraft:resenter as entity.mutationcraft.resenter with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.062] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_300
+[15Feb2025 03:39:06.062] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+[15Feb2025 03:39:06.063] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.063] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.063] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.063] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.063] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+[15Feb2025 03:39:06.063] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_210
+[15Feb2025 03:39:06.063] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+[15Feb2025 03:39:06.064] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:bomber as entity.undead_revamp2.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.064] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thesmoker as entity.undead_revamp2.thesmoker with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.064] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_15
+[15Feb2025 03:39:06.064] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+[15Feb2025 03:39:06.064] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.064] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:inflated as entity.zombie_extreme.inflated with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.065] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.065] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:demolisher as entity.zombie_extreme.demolisher with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.065] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+[15Feb2025 03:39:06.065] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_165
+[15Feb2025 03:39:06.065] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+[15Feb2025 03:39:06.065] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:fallback
+[15Feb2025 03:39:06.066] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+[15Feb2025 03:39:06.066] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.066] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:theheavy as entity.undead_revamp2.theheavy with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.066] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:patient_zero as entity.zombie_extreme.patient_zero with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.066] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.066] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 2, min day 0 and max day 0
+[15Feb2025 03:39:06.067] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_240
+[15Feb2025 03:39:06.067] [Worker-Main13/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 15, min day 0 and max day 0
+[15Feb2025 03:39:06.067] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:bomber as entity.zombie_extreme.bomber with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.067] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:patient_zero as entity.zombie_extreme.patient_zero with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.067] [Worker-Main13/INFO] [hordes/]: Loaded entity zombie_extreme:rat_king as entity.zombie_extreme.rat_king with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.068] [Worker-Main13/INFO] [hordes/]: Loaded entity undead_revamp2:thepregnant as entity.undead_revamp2.thepregnant with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.068] [Worker-Main13/INFO] [hordes/]: Loaded entity mutationcraft:human_herder as entity.mutationcraft.human_herder with weight 5, min day 0 and max day 0
+[15Feb2025 03:39:06.068] [Worker-Main13/INFO] [hordes/]: loaded horde table hordes:mobs_270
+[15Feb2025 03:39:06.071] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_0_loot_script
+[15Feb2025 03:39:06.071] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_0_script
+[15Feb2025 03:39:06.071] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_1_loot_script
+[15Feb2025 03:39:06.071] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_1_script
+[15Feb2025 03:39:06.072] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_2_loot_script
+[15Feb2025 03:39:06.072] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_2_script
+[15Feb2025 03:39:06.072] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_3_loot_script
+[15Feb2025 03:39:06.072] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_3_script
+[15Feb2025 03:39:06.072] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_4_loot_script
+[15Feb2025 03:39:06.072] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_4_script
+[15Feb2025 03:39:06.073] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_5_loot_script
+[15Feb2025 03:39:06.073] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_5_script
+[15Feb2025 03:39:06.073] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_6_loot_script
+[15Feb2025 03:39:06.073] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_6_script
+[15Feb2025 03:39:06.073] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_7_loot_script
+[15Feb2025 03:39:06.073] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_7_script
+[15Feb2025 03:39:06.073] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_8_loot_script
+[15Feb2025 03:39:06.074] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_8_script
+[15Feb2025 03:39:06.074] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_9_loot_script
+[15Feb2025 03:39:06.074] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_9_script
+[15Feb2025 03:39:06.074] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_10_loot_script
+[15Feb2025 03:39:06.074] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_10_script
+[15Feb2025 03:39:06.074] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_11_loot_script
+[15Feb2025 03:39:06.074] [Worker-Main13/INFO] [hordes/]: loaded horde script hordes:wave_11_script
+[15Feb2025 03:39:06.075] [Worker-Main13/INFO] [hordes/]: Loading conversion tables
+[15Feb2025 03:39:06.075] [Worker-Main13/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
+[15Feb2025 03:39:06.076] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager with chance of 0.3
+[15Feb2025 03:39:06.077] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager with chance of 0.3
+[15Feb2025 03:39:06.077] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.villager to entity.minecraft.zombie_villager with chance of 0.3
+[15Feb2025 03:39:06.077] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.zombiemobs.zombie_horsee with chance of 0.3
+[15Feb2025 03:39:06.077] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.cat to entity.zombiemobs.zombie_cat with chance of 0.3
+[15Feb2025 03:39:06.077] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.chicken to entity.zombiemobs.zombie_chicken with chance of 0.3
+[15Feb2025 03:39:06.078] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.cow to entity.zombiemobs.zombie_cow with chance of 0.3
+[15Feb2025 03:39:06.078] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.dolphin to entity.zombiemobs.zombie_dolphin with chance of 0.3
+[15Feb2025 03:39:06.078] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.donkey to entity.zombiemobs.zombie_donkey with chance of 0.3
+[15Feb2025 03:39:06.078] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.fox to entity.zombiemobs.zombie_fox with chance of 0.3
+[15Feb2025 03:39:06.078] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.goat to entity.zombiemobs.zombie_goat with chance of 0.3
+[15Feb2025 03:39:06.078] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.llama to entity.zombiemobs.zombie_llama with chance of 0.3
+[15Feb2025 03:39:06.079] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.mooshroom to entity.zombiemobs.zombie_mooshroom with chance of 0.3
+[15Feb2025 03:39:06.079] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.ocelot to entity.zombiemobs.zombie_ocelot with chance of 0.3
+[15Feb2025 03:39:06.079] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.panda to entity.zombiemobs.zombie_panda with chance of 0.3
+[15Feb2025 03:39:06.079] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.pig to entity.zombiemobs.zombie_pig with chance of 0.3
+[15Feb2025 03:39:06.079] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.sheep to entity.zombiemobs.zombie_sheep with chance of 0.3
+[15Feb2025 03:39:06.080] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.turtle to entity.zombiemobs.zombie_turtle with chance of 0.3
+[15Feb2025 03:39:06.080] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.squid to entity.zombiemobs.zombie_squid with chance of 0.3
+[15Feb2025 03:39:06.080] [Worker-Main13/INFO] [hordes/]: Loaded conversion entity.minecraft.wolf to entity.zombiemobs.zombie_wolf with chance of 0.3
+[15Feb2025 03:39:06.080] [Worker-Main13/INFO] [hordes/]: Loading immunity item list
+[15Feb2025 03:39:06.080] [Worker-Main13/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
+[15Feb2025 03:39:06.081] [Worker-Main13/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 120
+[15Feb2025 03:39:06.081] [Worker-Main13/INFO] [hordes/]: Loaded immunity item minecraft:golden_apple with duration 120
+[15Feb2025 03:39:06.081] [Worker-Main13/INFO] [hordes/]: Loading wearables protection list
+[15Feb2025 03:39:06.082] [Worker-Main13/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
+[15Feb2025 03:39:06.085] [Worker-Main13/INFO] [CraftTweaker/]: crafttweaker.reload.start
+[15Feb2025 03:39:08.971] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom create:pressing recipe (crafttweaker:can_press) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:09.038] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom create:splashing recipe (crafttweaker:aluminum_nugget) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:09.748] [Worker-Main13/WARN] [com.simibubi.create.Create/]: Your custom create:pressing recipe (crafttweaker:cast_iron_sheet) specified a duration. Durations have no impact on this type of recipe.
+[15Feb2025 03:39:10.648] [Worker-Main13/INFO] [CraftTweaker/]: crafttweaker.reload.complete
+[15Feb2025 03:39:10.654] [Worker-Main13/INFO] [fastsuite/]: Successfully processed 14698 recipes into the AuxRecipeManager.
+[15Feb2025 03:39:11.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[15Feb2025 03:39:11.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Feb2025 03:39:11.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Feb2025 03:39:11.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Feb2025 03:39:11.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Feb2025 03:39:11.274] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Feb2025 03:39:11.378] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Feb2025 03:39:11.378] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Feb2025 03:39:11.379] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Feb2025 03:39:11.379] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Feb2025 03:39:11.424] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:naphtha as Portable Generator Fuel. (256RF/t 9mB/t)
+[15Feb2025 03:39:11.425] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 6mB/t)
+[15Feb2025 03:39:11.425] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:benzene as Portable Generator Fuel. (256RF/t 6mB/t)
+[15Feb2025 03:39:11.425] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
+[15Feb2025 03:39:11.425] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:naphtha as Motorboat Fuel. (2 mB/t)
+[15Feb2025 03:39:11.426] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:benzene as Motorboat Fuel. (2 mB/t)
+[15Feb2025 03:39:11.538] [Server thread/ERROR] [net.minecraft.resources.RegistryResourceAccess$InMemoryStorage/]: Error adding element: Value provider too high: 256 [500-500]
+[15Feb2025 03:39:12.276] [Server thread/INFO] [FTB Teams/]: Loaded FTB Teams - 1 known players
+[15Feb2025 03:39:12.281] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Initializing Open Parties and Claims for the server...
+[15Feb2025 03:39:12.296] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading server info!
+[15Feb2025 03:39:12.370] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading player configs...
+[15Feb2025 03:39:12.398] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded player configs!
+[15Feb2025 03:39:12.398] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading parties...
+[15Feb2025 03:39:12.399] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded parties!
+[15Feb2025 03:39:12.400] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Fixing party inconsistencies...
+[15Feb2025 03:39:12.453] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered party system for OPAC: default
+[15Feb2025 03:39:12.453] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered party system for OPAC: ftb_teams
+[15Feb2025 03:39:12.454] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered permission system for OPAC: permission_api
+[15Feb2025 03:39:12.557] [Server thread/INFO] [spark/]: Starting background profiler...
+[15Feb2025 03:39:13.138] [Server thread/INFO] [configured/]: Loading server configs...
+[15Feb2025 03:39:13.188] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[15Feb2025 03:39:13.693] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[15Feb2025 03:39:13.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Feb2025 03:39:13.957] [Server thread/INFO] [GlobalGameRules/]: Applying config gamerules to level world
+[15Feb2025 03:39:14.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Feb2025 03:39:14.078] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[15Feb2025 03:39:15.988] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Feb2025 03:39:15.989] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Feb2025 03:39:15.990] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Feb2025 03:39:15.990] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Feb2025 03:39:16.096] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Feb2025 03:39:16.630] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
+[15Feb2025 03:39:16.852] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2779 ms
+[15Feb2025 03:39:16.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.461s)! For help, type "help"
+[15Feb2025 03:39:16.927] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Feb2025 03:39:16.927] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading claims...
+[15Feb2025 03:39:16.928] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded claims in 1ms
+[15Feb2025 03:39:16.928] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured permission system "ftb_ranks" isn't registered!
+[15Feb2025 03:39:16.928] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following permission system: permission_api
+[15Feb2025 03:39:16.928] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following party system as primary: ftb_teams
+[15Feb2025 03:39:17.004] [Server thread/INFO] [puffish_skills/]: [puffish_skills] Configuration loaded successfully!
+[15Feb2025 03:39:17.030] [Server thread/INFO] [xaero.map.WorldMap/]: Registered synced player tracker system: ftb_teams
+[15Feb2025 03:39:17.054] [Server thread/INFO] [xaero.common.MinimapLogs/]: Registered synced player tracker system: ftb_teams
+[15Feb2025 03:39:17.055] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Generating diet values...
+[15Feb2025 03:39:17.055] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Finding ungrouped food items...
+[15Feb2025 03:39:17.066] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Found 174 ungrouped food items
+[15Feb2025 03:39:17.066] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Building item-to-recipes map...
+[15Feb2025 03:39:17.087] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Found 9644 valid items with recipes
+[15Feb2025 03:39:17.087] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Processing items...
+[15Feb2025 03:39:17.094] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Processed 231 items
+[15Feb2025 03:39:17.095] [Server thread/INFO] [top.theillusivec4.diet.DietMod/]: Generating diet values took 39.15 ms
+[15Feb2025 03:39:17.095] [Server thread/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Paladin's Furniture 1.3 has released, for MinecraftForge, NeoForge and Fabric, there is new content and many bugs, crashes and issues have been fixed. Download it from: Modrinth
+[15Feb2025 03:39:17.101] [Server thread/INFO] [FTB Quests/]: Loading quests from /workspaces/sturdy-octo-dollop/servidor_minecraft/config/ftbquests/quests
+[15Feb2025 03:39:17.143] [Server thread/INFO] [FTB Quests/]: Loaded 5 chapter groups, 18 chapters, 347 quests, 1 reward tables
+[15Feb2025 03:39:17.144] [Server thread/INFO] [FTB Quests/]: Loading quest progression data from /workspaces/sturdy-octo-dollop/servidor_minecraft/config/ftbquests/quests
+[15Feb2025 03:39:17.298] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 185914 bytes (in 19 string chunks with the size of 10000)
+[15Feb2025 03:39:17.306] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15Feb2025 03:39:17.317] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[15Feb2025 03:39:17.325] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[15Feb2025 03:39:17.519] [Server thread/WARN] [ModernFix/]: Dedicated server took 77.868 seconds to load
+[15Feb2025 03:39:17.539] [Server thread/INFO] [readyplayerfun/]: Pausing server onWorldTick at 12133, 12133
+[15Feb2025 03:39:17.688] [Server thread/ERROR] [net.minecraft.resources.RegistryResourceAccess$InMemoryStorage/]: Error adding element: Value provider too high: 256 [500-500]
+[15Feb2025 03:45:01.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] hola
+[15Feb2025 03:45:16.967] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@180c09a2
+[15Feb2025 03:45:16.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ariel231[/10.147.19.146:59837] logged in with entity id 56 at (-31.5, 63.0, 32.5)
+[15Feb2025 03:45:17.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 joined the game
+[15Feb2025 03:45:17.069] [Server thread/INFO] [tac/]: PENDING
+[15Feb2025 03:45:17.271] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 03:45:17.372] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:05:59 at 12133, 12133
+[15Feb2025 03:45:17.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Inhospitable]
+[15Feb2025 03:45:17.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ariel231 (17)
+[15Feb2025 03:45:17.759] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ariel231
+[15Feb2025 03:45:18.183] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[15Feb2025 03:45:20.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[15Feb2025 03:45:26.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 03:45:27.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 03:45:27.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ariel231 (086c72a6-2ef4-33b1-9214-58a8feb219ca) successfully connected to voice chat
+[15Feb2025 03:45:35.747] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-223, y=-39, z=243}

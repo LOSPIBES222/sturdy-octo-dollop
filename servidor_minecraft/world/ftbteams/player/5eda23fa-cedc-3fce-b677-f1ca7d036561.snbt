@@ -1,0 +1,17 @@
+{
+	id: "5eda23fa-cedc-3fce-b677-f1ca7d036561"
+	type: "player"
+	player_name: "Midab"
+	ranks: {
+		5eda23fa-cedc-3fce-b677-f1ca7d036561: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Midab"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
