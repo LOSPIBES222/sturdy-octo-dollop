@@ -1,0 +1,17 @@
+{
+	id: "086c72a6-2ef4-33b1-9214-58a8feb219ca"
+	type: "player"
+	player_name: "ariel231"
+	ranks: {
+		086c72a6-2ef4-33b1-9214-58a8feb219ca: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ariel231"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1008,3 +1008,41 @@
 [15Feb2025 03:45:27.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 086c72a6-2ef4-33b1-9214-58a8feb219ca
 [15Feb2025 03:45:27.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ariel231 (086c72a6-2ef4-33b1-9214-58a8feb219ca) successfully connected to voice chat
 [15Feb2025 03:45:35.747] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-223, y=-39, z=243}
+[15Feb2025 03:48:21.096] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d3ca404
+[15Feb2025 03:48:21.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midab[/10.147.19.48:55463] logged in with entity id 22427 at (392.540904262615, 73.0, 170.14077500291145)
+[15Feb2025 03:48:21.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab joined the game
+[15Feb2025 03:48:21.183] [Server thread/INFO] [tac/]: PENDING
+[15Feb2025 03:48:21.292] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5eda23fa-cedc-3fce-b677-f1ca7d036561
+[15Feb2025 03:48:22.365] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midab (17)
+[15Feb2025 03:48:22.368] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midab
+[15Feb2025 03:48:29.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[15Feb2025 03:48:34.553] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=337, y=21, z=305}
+[15Feb2025 03:48:39.669] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=245, y=23, z=-36}
+[15Feb2025 03:48:39.670] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=246, y=23, z=-36}
+[15Feb2025 03:48:49.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5eda23fa-cedc-3fce-b677-f1ca7d036561
+[15Feb2025 03:48:50.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5eda23fa-cedc-3fce-b677-f1ca7d036561
+[15Feb2025 03:48:50.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midab (5eda23fa-cedc-3fce-b677-f1ca7d036561) successfully connected to voice chat
+[15Feb2025 03:49:16.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the weather to clear]
+[15Feb2025 03:51:56.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to ariel231]
+[15Feb2025 03:52:54.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ariel231 lost connection: Disconnected
+[15Feb2025 03:52:54.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 left the game
+[15Feb2025 03:52:54.776] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 03:52:54.780] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ariel231
+[15Feb2025 03:53:10.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Monster Hunter]
+[15Feb2025 03:54:52.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[15Feb2025 03:55:14.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [First Day]
+[15Feb2025 03:55:53.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the weather to clear]
+[15Feb2025 03:56:16.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[15Feb2025 03:56:34.494] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[15Feb2025 03:57:50.333] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d51aeed
+[15Feb2025 03:57:50.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ariel231[/10.147.19.146:60541] logged in with entity id 90214 at (-31.405725017764894, 63.0, 34.69999998807907)
+[15Feb2025 03:57:50.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 joined the game
+[15Feb2025 03:57:50.360] [Server thread/INFO] [tac/]: PENDING
+[15Feb2025 03:57:50.403] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 03:57:50.542] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ariel231 (17)
+[15Feb2025 03:57:50.543] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ariel231
+[15Feb2025 03:57:56.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 03:57:57.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 03:57:57.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ariel231 (086c72a6-2ef4-33b1-9214-58a8feb219ca) successfully connected to voice chat
+[15Feb2025 03:58:22.528] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[15Feb2025 03:58:58.244] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
