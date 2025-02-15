@@ -17688,3 +17688,47 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Feb2025 04:09:29.648] [Worker-Main39/DEBUG] [ModernFix/]: Structure apocalypsenow:camp2 is being run through DFU (hash 701f3397d255d9365533a9b1171908874e5bb3b429233a6e474af84d1f3b31be), this will cause launch time delays
 [15Feb2025 04:09:29.716] [Worker-Main39/DEBUG] [ModernFix/]: Structure apocalypsenow:cabine is being run through DFU (hash 82eb8eb9bcd0f655aba7777929f32371fe1476daa0f0549d4acab0855621311b), this will cause launch time delays
 [15Feb2025 04:09:32.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[15Feb2025 04:10:10.937] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[15Feb2025 04:10:18.219] [Worker-Main19/DEBUG] [ModernFix/]: Structure apocalypsenow:lighthouse is being run through DFU (hash 8f91b1f51c2e46b29aaf47f7af5d6027622be30e66da60c338f9d09b58616c31), this will cause launch time delays
+[15Feb2025 04:10:25.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
+[15Feb2025 04:10:43.485] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[15Feb2025 04:10:58.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[15Feb2025 04:12:22.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[15Feb2025 04:12:32.620] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[15Feb2025 04:12:59.304] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[15Feb2025 04:13:48.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement ['X' Marks the Spot]
+[15Feb2025 04:13:48.502] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[15Feb2025 04:13:48.503] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[15Feb2025 04:13:48.503] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[15Feb2025 04:13:52.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement ['X' Marks the Spot]
+[15Feb2025 04:14:00.045] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[15Feb2025 04:14:21.785] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[15Feb2025 04:14:21.785] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[15Feb2025 04:14:21.786] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[15Feb2025 04:14:21.787] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[15Feb2025 04:14:21.788] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[15Feb2025 04:14:21.802] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[15Feb2025 04:14:21.805] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[15Feb2025 04:14:21.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 04:14:21.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 04:14:38.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Connecting]
+[15Feb2025 04:15:14.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [First Day]
+[15Feb2025 04:15:30.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Acquire Hardware]
+[15Feb2025 04:15:52.570] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[15Feb2025 04:16:16.289] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[15Feb2025 04:17:01.677] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[15Feb2025 04:18:50.228] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[15Feb2025 04:19:00.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[15Feb2025 04:19:12.470] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[15Feb2025 04:19:12.470] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[15Feb2025 04:19:21.787] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[15Feb2025 04:19:21.788] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[15Feb2025 04:19:21.788] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[15Feb2025 04:19:21.788] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[15Feb2025 04:19:21.789] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[15Feb2025 04:19:21.799] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[15Feb2025 04:19:21.800] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[15Feb2025 04:19:21.801] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[15Feb2025 04:19:21.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Feb2025 04:19:21.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Feb2025 04:19:28.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
