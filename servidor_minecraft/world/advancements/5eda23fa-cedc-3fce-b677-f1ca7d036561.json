@@ -368,11 +368,14 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-15 04:24:57 +0000",
+      "highland": "2025-02-15 04:57:03 +0000",
+      "mystic_grove": "2025-02-15 04:52:42 +0000",
       "old_growth_woodland": "2025-02-15 04:39:25 +0000",
       "dryland": "2025-02-15 04:10:10 +0000",
       "lush_desert": "2025-02-15 04:09:28 +0000",
       "cherry_blossom_grove": "2025-02-15 04:47:12 +0000",
       "rocky_rainforest": "2025-02-15 04:47:03 +0000",
+      "grassland": "2025-02-15 04:52:32 +0000",
       "rainforest": "2025-02-15 04:46:22 +0000"
     },
     "done": false
@@ -437,6 +440,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-02-14 23:09:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-15 04:52:47 +0000"
     },
     "done": true
   },

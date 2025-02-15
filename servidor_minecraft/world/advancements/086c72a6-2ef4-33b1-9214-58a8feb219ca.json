@@ -176,7 +176,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-02-15 04:21:37 +0000",
-      "bread": "2025-02-15 04:48:40 +0000"
+      "bread": "2025-02-15 04:48:40 +0000",
+      "golden_apple": "2025-02-15 04:50:10 +0000"
     },
     "done": false
   },
@@ -375,11 +376,14 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-15 04:25:07 +0000",
+      "highland": "2025-02-15 04:57:31 +0000",
+      "mystic_grove": "2025-02-15 04:52:41 +0000",
       "old_growth_woodland": "2025-02-15 04:39:19 +0000",
       "dryland": "2025-02-15 04:10:26 +0000",
       "lush_desert": "2025-02-15 04:09:20 +0000",
       "cherry_blossom_grove": "2025-02-15 04:47:10 +0000",
       "rocky_rainforest": "2025-02-15 04:47:02 +0000",
+      "grassland": "2025-02-15 04:52:32 +0000",
       "rainforest": "2025-02-15 04:46:20 +0000"
     },
     "done": false
@@ -443,6 +447,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-02-15 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-15 04:50:46 +0000"
     },
     "done": true
   },

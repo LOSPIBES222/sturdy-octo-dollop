@@ -1097,3 +1097,13 @@
 [15Feb2025 04:47:54.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
 [15Feb2025 04:48:06.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
 [15Feb2025 04:48:33.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[15Feb2025 04:50:46.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Disme A Dozen]
+[15Feb2025 04:51:24.085] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[15Feb2025 04:52:47.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Disme A Dozen]
+[15Feb2025 04:55:41.862] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-958, y=66, z=-999}
+[15Feb2025 04:55:41.863] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-958, y=66, z=-999}
+[15Feb2025 04:55:41.863] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-958, y=66, z=-999}
+[15Feb2025 04:55:41.863] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-958, y=66, z=-999}
+[15Feb2025 04:55:41.871] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-946, y=67, z=-1001}
+[15Feb2025 04:55:41.871] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-946, y=67, z=-1001}
+[15Feb2025 04:55:41.872] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-946, y=67, z=-1001}
