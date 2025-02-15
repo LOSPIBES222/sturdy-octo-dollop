@@ -1077,3 +1077,23 @@
 [15Feb2025 04:33:18.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Cover Me with Diamonds]
 [15Feb2025 04:37:37.594] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [15Feb2025 04:39:45.140] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@296d2a11
+[15Feb2025 04:41:24.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 086c72a6-2ef4-33b1-9214-58a8feb219ca timed out
+[15Feb2025 04:41:24.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ariel231
+[15Feb2025 04:41:24.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ariel231
+[15Feb2025 04:42:15.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ariel231 lost connection: Disconnected
+[15Feb2025 04:42:15.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 left the game
+[15Feb2025 04:42:15.289] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 04:42:15.289] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ariel231
+[15Feb2025 04:43:30.235] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@e1b119b
+[15Feb2025 04:43:30.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ariel231[/10.147.19.146:62965] logged in with entity id 381404 at (-407.3956714909247, 62.0, -213.1527421787683)
+[15Feb2025 04:43:30.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 joined the game
+[15Feb2025 04:43:30.255] [Server thread/INFO] [tac/]: PENDING
+[15Feb2025 04:43:30.302] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 04:43:30.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ariel231 (17)
+[15Feb2025 04:43:30.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ariel231
+[15Feb2025 04:43:38.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 04:43:39.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[15Feb2025 04:43:39.943] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ariel231 (086c72a6-2ef4-33b1-9214-58a8feb219ca) successfully connected to voice chat
+[15Feb2025 04:47:54.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[15Feb2025 04:48:06.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[15Feb2025 04:48:33.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
