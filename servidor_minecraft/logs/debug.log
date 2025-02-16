@@ -18027,3 +18027,156 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 04:51:15.892] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
 [16Feb2025 04:51:15.900] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
 [16Feb2025 04:51:52.687] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[16Feb2025 04:53:49.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has completed the challenge [Yo mama so fat, she can summon zombies]
+[16Feb2025 04:54:03.912] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Feb2025 04:54:03.912] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Feb2025 04:54:13.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[16Feb2025 04:54:13.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[16Feb2025 04:54:13.481] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[16Feb2025 04:54:13.482] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[16Feb2025 04:54:13.492] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[16Feb2025 04:54:13.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:54:13.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 04:54:14.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [Diamonds!]
+[16Feb2025 04:56:15.700] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 04:56:41.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [Disme A Dozen]
+[16Feb2025 04:56:48.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Close Quarters]
+[16Feb2025 04:56:52.324] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 04:56:53.370] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[16Feb2025 04:57:24.112] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Feb2025 04:57:39.270] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mostro321: {disabled=true, disconnected=false, uuid=a6f19ac6-0dcf-3799-b038-c274b94bfb6c, name=mostro321, group=null}
+[16Feb2025 04:57:39.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mostro321: {disabled=false, disconnected=false, uuid=a6f19ac6-0dcf-3799-b038-c274b94bfb6c, name=mostro321, group=null}
+[16Feb2025 04:57:39.822] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mostro321: {disabled=true, disconnected=false, uuid=a6f19ac6-0dcf-3799-b038-c274b94bfb6c, name=mostro321, group=null}
+[16Feb2025 04:57:39.823] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mostro321: {disabled=false, disconnected=false, uuid=a6f19ac6-0dcf-3799-b038-c274b94bfb6c, name=mostro321, group=null}
+[16Feb2025 04:57:39.871] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mostro321: {disabled=true, disconnected=false, uuid=a6f19ac6-0dcf-3799-b038-c274b94bfb6c, name=mostro321, group=null}
+[16Feb2025 04:57:39.921] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mostro321: {disabled=false, disconnected=false, uuid=a6f19ac6-0dcf-3799-b038-c274b94bfb6c, name=mostro321, group=null}
+[16Feb2025 04:58:05.873] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 04:59:13.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[16Feb2025 04:59:13.480] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[16Feb2025 04:59:13.480] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[16Feb2025 04:59:13.482] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -3] Saved.
+[16Feb2025 04:59:13.483] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[16Feb2025 04:59:13.484] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -3] Saved.
+[16Feb2025 04:59:13.484] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[16Feb2025 04:59:13.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:59:13.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 05:00:44.062] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Feb2025 05:01:02.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[16Feb2025 05:01:06.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 was slain by Infected Police
+[16Feb2025 05:01:08.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 05:01:08.619] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 05:01:08.779] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[16Feb2025 05:01:16.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 05:01:16.465] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[16Feb2025 05:01:16.501] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[16Feb2025 05:01:16.554] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[16Feb2025 05:01:16.554] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[16Feb2025 05:02:15.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mostro321 lost connection: Disconnected
+[16Feb2025 05:02:15.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 left the game
+[16Feb2025 05:02:15.671] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a6f19ac6-0dcf-3799-b038-c274b94bfb6c
+[16Feb2025 05:02:15.675] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mostro321
+[16Feb2025 05:02:15.675] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of mostro321
+[16Feb2025 05:02:15.687] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player a6f19ac6-0dcf-3799-b038-c274b94bfb6c does not have a secret
+[16Feb2025 05:02:24.651] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.146] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.200] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.207] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.252] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.253] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.294] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.347] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.405] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.407] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.454] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.455] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.492] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.544] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.547] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.602] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.653] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.654] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.694] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.749] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.751] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.801] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.851] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.853] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.897] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:25.952] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.002] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.002] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.051] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.053] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.091] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.150] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.206] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.208] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.254] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.255] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.294] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.346] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.352] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.399] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.401] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.455] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.498] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.546] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.549] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.601] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.655] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.656] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.708] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.751] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.752] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.799] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.852] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.854] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.893] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.946] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:26.949] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.001] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.053] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.056] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 05:02:27.092] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.146] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.154] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.199] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.201] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.253] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.293] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:27.345] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:28.052] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:02:42.770] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[16Feb2025 05:03:10.889] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 05:03:11.143] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 05:03:15.699] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.207] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.208] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.250] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.307] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.352] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.353] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.409] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.409] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.449] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.497] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.551] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.553] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.604] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=false, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:16.607] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ariel231: {disabled=true, disconnected=false, uuid=086c72a6-2ef4-33b1-9214-58a8feb219ca, name=ariel231, group=null}
+[16Feb2025 05:03:18.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midab lost connection: Disconnected
+[16Feb2025 05:03:18.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab left the game
+[16Feb2025 05:03:18.472] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5eda23fa-cedc-3fce-b677-f1ca7d036561
+[16Feb2025 05:03:18.473] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midab
+[16Feb2025 05:03:18.473] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Midab
+[16Feb2025 05:03:19.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ariel231 lost connection: Disconnected
+[16Feb2025 05:03:19.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 left the game
+[16Feb2025 05:03:19.769] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[16Feb2025 05:03:19.769] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 201501, 86891
+[16Feb2025 05:03:19.770] [Server thread/DEBUG] [readyplayerfun/]: (pauseServer) Raining: false rainTime: 13819, thundering: true, thunderTime 5236, weatherTime: 0, randomTickSpeed: 3, doFireTick: true
+[16Feb2025 05:03:19.771] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ariel231
+[16Feb2025 05:03:19.771] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ariel231
+[16Feb2025 05:03:19.837] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[16Feb2025 05:03:19.874] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[16Feb2025 05:03:19.874] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124

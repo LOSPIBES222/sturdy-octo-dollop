@@ -259,6 +259,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2025-02-16 04:54:14 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-16 04:05:15 +0000"
@@ -384,6 +390,12 @@
     },
     "done": false
   },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2025-02-16 04:52:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-16 04:05:15 +0000"
@@ -423,6 +435,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-02-16 04:05:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-16 04:56:41 +0000"
     },
     "done": true
   },
@@ -550,6 +568,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-02-16 04:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-16 04:54:14 +0000"
     },
     "done": true
   },

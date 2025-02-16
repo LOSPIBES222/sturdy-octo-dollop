@@ -1104,3 +1104,29 @@
 [16Feb2025 04:50:13.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set mostro321's game mode to Survival Mode]
 [16Feb2025 04:50:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Never more.]
 [16Feb2025 04:50:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [They're out there...]
+[16Feb2025 04:53:49.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has completed the challenge [Yo mama so fat, she can summon zombies]
+[16Feb2025 04:54:14.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [Diamonds!]
+[16Feb2025 04:56:15.700] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 04:56:41.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [Disme A Dozen]
+[16Feb2025 04:56:48.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Close Quarters]
+[16Feb2025 04:56:52.324] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 04:58:05.873] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 05:01:02.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[16Feb2025 05:01:06.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 was slain by Infected Police
+[16Feb2025 05:01:08.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 05:01:08.619] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 05:01:16.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 05:02:15.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mostro321 lost connection: Disconnected
+[16Feb2025 05:02:15.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 left the game
+[16Feb2025 05:02:15.671] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a6f19ac6-0dcf-3799-b038-c274b94bfb6c
+[16Feb2025 05:02:15.675] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mostro321
+[16Feb2025 05:02:27.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 05:03:18.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midab lost connection: Disconnected
+[16Feb2025 05:03:18.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab left the game
+[16Feb2025 05:03:18.472] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5eda23fa-cedc-3fce-b677-f1ca7d036561
+[16Feb2025 05:03:18.473] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midab
+[16Feb2025 05:03:19.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ariel231 lost connection: Disconnected
+[16Feb2025 05:03:19.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 left the game
+[16Feb2025 05:03:19.769] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 086c72a6-2ef4-33b1-9214-58a8feb219ca
+[16Feb2025 05:03:19.769] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 201501, 86891
+[16Feb2025 05:03:19.771] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ariel231

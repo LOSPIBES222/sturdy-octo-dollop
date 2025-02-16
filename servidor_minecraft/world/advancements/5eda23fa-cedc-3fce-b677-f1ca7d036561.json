@@ -175,6 +175,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-16 05:02:29 +0000",
       "cooked_beef": "2025-02-15 04:09:15 +0000",
       "potato": "2025-02-16 04:33:54 +0000"
     },
@@ -291,6 +292,12 @@
   "crossbowverhaul:recipes/combat/crossbow_netherite": {
     "criteria": {
       "has_crossbow": "2025-02-14 23:09:43 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2025-02-16 04:50:16 +0000"
     },
     "done": true
   },
@@ -617,6 +624,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-16 04:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-15 04:29:37 +0000"
@@ -657,6 +670,12 @@
     "criteria": {
       "has_blazepowder": "2025-02-14 23:09:43 +0000",
       "has_bolt": "2025-02-14 23:09:43 +0000"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/gills": {
+    "criteria": {
+      "gills": "2025-02-16 04:50:16 +0000"
     },
     "done": true
   },
