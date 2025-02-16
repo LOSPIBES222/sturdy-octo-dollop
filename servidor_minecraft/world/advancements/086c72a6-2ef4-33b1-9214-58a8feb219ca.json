@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-15 05:20:05 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-15 03:45:17 +0000"
@@ -382,6 +388,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-15 04:25:07 +0000",
+      "shrubland": "2025-02-15 05:20:45 +0000",
       "rocky_shrubland": "2025-02-15 05:10:19 +0000",
       "highland": "2025-02-15 04:57:31 +0000",
       "mystic_grove": "2025-02-15 04:52:41 +0000",
@@ -595,6 +602,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-02-15 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-16 04:07:53 +0000"
     },
     "done": true
   },

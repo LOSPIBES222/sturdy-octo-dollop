@@ -1,0 +1,17 @@
+{
+	id: "a6f19ac6-0dcf-3799-b038-c274b94bfb6c"
+	type: "player"
+	player_name: "mostro321"
+	ranks: {
+		a6f19ac6-0dcf-3799-b038-c274b94bfb6c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "mostro321"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6F59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
