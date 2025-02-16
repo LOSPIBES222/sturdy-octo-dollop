@@ -17685,3 +17685,68 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 04:20:59.073] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
 [16Feb2025 04:21:04.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement ['X' Marks the Spot]
 [16Feb2025 04:21:44.973] [Worker-Main19/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:lighthouse
+[16Feb2025 04:23:16.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:23:16.945] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:23:16.954] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:23:17.146] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:24:03.205] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:24:03.442] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:24:03.500] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:24:03.762] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Feb2025 04:24:03.762] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Feb2025 04:24:13.484] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[16Feb2025 04:24:13.484] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[16Feb2025 04:24:13.487] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[16Feb2025 04:24:13.490] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[16Feb2025 04:24:13.490] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[16Feb2025 04:24:13.492] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[16Feb2025 04:24:13.493] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[16Feb2025 04:24:13.506] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[16Feb2025 04:24:13.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:24:13.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 04:25:07.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 was doomed to fall
+[16Feb2025 04:25:09.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [We do a little trolling...]
+[16Feb2025 04:25:09.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:25:09.429] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:25:31.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:25:41.438] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[16Feb2025 04:26:23.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to mostro321]
+[16Feb2025 04:26:46.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 was impaled by Drowned
+[16Feb2025 04:26:49.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:26:49.650] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:26:54.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to mostro321]
+[16Feb2025 04:27:23.962] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Feb2025 04:28:33.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to mostro321]
+[16Feb2025 04:28:48.430] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[16Feb2025 04:28:48.430] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[16Feb2025 04:28:52.404] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:29:13.483] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[16Feb2025 04:29:13.486] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[16Feb2025 04:29:13.486] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[16Feb2025 04:29:13.497] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[16Feb2025 04:29:13.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[16Feb2025 04:29:13.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[16Feb2025 04:29:13.499] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[16Feb2025 04:29:13.500] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[16Feb2025 04:29:13.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:29:13.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 04:29:23.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 was slain by Infected Police
+[16Feb2025 04:29:24.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:29:24.607] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:29:32.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:30:18.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[16Feb2025 04:30:28.406] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 04:30:43.912] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Feb2025 04:30:49.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 was slain by Rattlesnake
+[16Feb2025 04:30:49.498] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Feb2025 04:30:50.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:30:50.825] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:30:52.022] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[16Feb2025 04:31:11.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
+[16Feb2025 04:31:37.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 04:32:06.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [No Step on Snake]
+[16Feb2025 04:33:07.844] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}

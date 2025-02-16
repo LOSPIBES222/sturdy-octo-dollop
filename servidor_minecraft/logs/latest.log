@@ -1053,3 +1053,31 @@
 [16Feb2025 04:19:07.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Rigged from the Start]
 [16Feb2025 04:19:27.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Rigged from the Start]
 [16Feb2025 04:21:04.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement ['X' Marks the Spot]
+[16Feb2025 04:25:07.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 was doomed to fall
+[16Feb2025 04:25:09.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [We do a little trolling...]
+[16Feb2025 04:25:09.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:25:09.429] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:25:31.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:26:23.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to mostro321]
+[16Feb2025 04:26:46.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 was impaled by Drowned
+[16Feb2025 04:26:49.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:26:49.650] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:26:54.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to mostro321]
+[16Feb2025 04:28:33.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to mostro321]
+[16Feb2025 04:29:23.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 was slain by Infected Police
+[16Feb2025 04:29:24.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:29:24.607] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:29:32.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:30:18.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[16Feb2025 04:30:28.406] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[16Feb2025 04:30:49.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 was slain by Rattlesnake
+[16Feb2025 04:30:49.498] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[16Feb2025 04:30:49.499] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Feb2025 04:30:50.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:30:50.825] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:31:11.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
+[16Feb2025 04:31:37.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 04:32:06.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [No Step on Snake]
