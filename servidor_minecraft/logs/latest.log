@@ -1046,3 +1046,10 @@
 [16Feb2025 04:12:30.796] [Server thread/INFO] [tac/]: PENDING
 [16Feb2025 04:12:35.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['mostro321'/48295, l='ServerLevel[world]', x=187.56, y=64.00, z=43.54] died: entity.hordes.HuskPlayer.chat was decimated by Midab
 [16Feb2025 04:12:37.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:14:48.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Removed Midab from any team]
+[16Feb2025 04:15:42.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Created team [mostro321]]
+[16Feb2025 04:15:52.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Added Midab to team [mostro321]]
+[16Feb2025 04:17:06.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 04:19:07.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Rigged from the Start]
+[16Feb2025 04:19:27.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Rigged from the Start]
+[16Feb2025 04:21:04.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement ['X' Marks the Spot]

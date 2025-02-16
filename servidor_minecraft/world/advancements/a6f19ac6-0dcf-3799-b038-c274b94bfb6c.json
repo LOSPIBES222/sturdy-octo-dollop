@@ -157,6 +157,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-02-16 04:17:26 +0000",
       "minecraft:desert": "2025-02-16 04:05:15 +0000"
     },
     "done": false
@@ -200,6 +201,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-02-16 04:05:15 +0000"
+    },
+    "done": true
+  },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2025-02-16 04:10:55 +0000"
     },
     "done": true
   },
@@ -335,6 +342,12 @@
       "has_the_recipe": "2025-02-16 04:05:15 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-16 04:10:54 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {

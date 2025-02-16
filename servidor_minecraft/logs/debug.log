@@ -17620,3 +17620,68 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 04:12:30.796] [Server thread/INFO] [tac/]: PENDING
 [16Feb2025 04:12:35.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['mostro321'/48295, l='ServerLevel[world]', x=187.56, y=64.00, z=43.54] died: entity.hordes.HuskPlayer.chat was decimated by Midab
 [16Feb2025 04:12:37.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:12:49.554] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:12:49.803] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:12:49.854] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:12:49.873] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:12:49.904] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:12:52.003] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:12:53.379] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:14:03.712] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Feb2025 04:14:03.712] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Feb2025 04:14:13.514] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[16Feb2025 04:14:13.514] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[16Feb2025 04:14:13.516] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[16Feb2025 04:14:13.518] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[16Feb2025 04:14:13.518] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[16Feb2025 04:14:13.520] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[16Feb2025 04:14:13.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:14:13.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 04:14:48.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Removed Midab from any team]
+[16Feb2025 04:15:05.544] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:15:05.844] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:15:05.853] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:15:06.243] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:15:42.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Created team [mostro321]]
+[16Feb2025 04:15:52.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Added Midab to team [mostro321]]
+[16Feb2025 04:16:05.107] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:16:26.325] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of mostro321: {disabled=false, disconnected=false, uuid=a6f19ac6-0dcf-3799-b038-c274b94bfb6c, name=mostro321, group=null}
+[16Feb2025 04:17:06.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 04:17:09.419] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[16Feb2025 04:17:23.912] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Feb2025 04:17:31.960] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:17:32.195] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:17:32.203] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:17:32.243] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:17:32.307] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:17:37.072] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[16Feb2025 04:19:07.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Rigged from the Start]
+[16Feb2025 04:19:13.483] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[16Feb2025 04:19:13.484] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[16Feb2025 04:19:13.488] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[16Feb2025 04:19:13.500] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[16Feb2025 04:19:13.501] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[16Feb2025 04:19:13.502] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[16Feb2025 04:19:13.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:19:13.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 04:19:27.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Rigged from the Start]
+[16Feb2025 04:20:20.132] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[16Feb2025 04:20:27.830] [Worker-Main19/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[16Feb2025 04:20:43.862] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Feb2025 04:20:49.404] [Worker-Main16/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -2]
+[16Feb2025 04:20:54.563] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.VillagerGoalPackagesMixin from saturn.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[16Feb2025 04:20:54.566] [Server thread/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[16Feb2025 04:20:54.567] [Server thread/DEBUG] [mixin/]: kiwi.mixins.json:WorkAtComposterAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16Feb2025 04:20:54.567] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$bbc60c$0 in kiwi.mixins.json:WorkAtComposterAccess
+[16Feb2025 04:20:54.567] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$bbc60c$1 in kiwi.mixins.json:WorkAtComposterAccess
+[16Feb2025 04:20:54.587] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[16Feb2025 04:20:54.587] [Server thread/DEBUG] [mixin/]: pehkui.mixins.json:compat116plus.VillagerBreedTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[16Feb2025 04:20:54.592] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.LocateHidingPlaceMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[16Feb2025 04:20:58.645] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:20:58.927] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:20:58.930] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:20:58.973] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:20:59.000] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:20:59.073] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:21:04.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement ['X' Marks the Spot]
+[16Feb2025 04:21:44.973] [Worker-Main19/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:lighthouse

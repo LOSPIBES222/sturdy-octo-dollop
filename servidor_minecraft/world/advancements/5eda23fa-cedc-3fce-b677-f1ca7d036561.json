@@ -448,6 +448,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-02-16 04:19:07 +0000"
+    },
+    "done": true
+  },
   "ag_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement": "2025-02-15 03:55:14 +0000"
