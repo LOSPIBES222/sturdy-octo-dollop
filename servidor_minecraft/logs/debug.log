@@ -17945,3 +17945,85 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Feb2025 04:42:53.348] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
 [16Feb2025 04:42:53.355] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
 [16Feb2025 04:42:53.422] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:44:03.862] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Feb2025 04:44:03.862] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Feb2025 04:44:13.482] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[16Feb2025 04:44:13.482] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 0] Saved.
+[16Feb2025 04:44:13.483] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[16Feb2025 04:44:13.483] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[16Feb2025 04:44:13.483] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[16Feb2025 04:44:13.485] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -1] Saved.
+[16Feb2025 04:44:13.485] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[16Feb2025 04:44:13.485] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[16Feb2025 04:44:13.486] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[16Feb2025 04:44:13.487] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[16Feb2025 04:44:13.494] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[16Feb2025 04:44:13.495] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[16Feb2025 04:44:13.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:44:13.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 04:44:34.423] [Worker-Main24/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, 2]
+[16Feb2025 04:44:36.240] [Worker-Main17/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 2]
+[16Feb2025 04:46:16.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[16Feb2025 04:46:27.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to -869.500000, 72.500000, -1033.500000]
+[16Feb2025 04:46:33.827] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[16Feb2025 04:46:35.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:46:44.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
+[16Feb2025 04:46:50.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 04:46:52.851] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:46:53.157] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:46:53.179] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:46:53.207] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:46:53.296] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:46:53.304] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:46:53.394] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:46:53.398] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:47:24.063] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Feb2025 04:47:42.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Amateur Archaeologist]
+[16Feb2025 04:47:51.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [Never more.]
+[16Feb2025 04:47:51.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [They're out there...]
+[16Feb2025 04:48:10.217] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[16Feb2025 04:48:46.875] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[16Feb2025 04:48:47.776] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[16Feb2025 04:48:48.675] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[16Feb2025 04:48:56.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to mostro321]
+[16Feb2025 04:48:56.782] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[16Feb2025 04:49:05.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 drowned whilst trying to escape Zombie
+[16Feb2025 04:49:06.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:49:06.975] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:49:13.482] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 1] Saved.
+[16Feb2025 04:49:13.482] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, 2] Saved.
+[16Feb2025 04:49:13.484] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -3] Saved.
+[16Feb2025 04:49:13.485] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[16Feb2025 04:49:13.486] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -3] Saved.
+[16Feb2025 04:49:13.486] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 2] Saved.
+[16Feb2025 04:49:13.486] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[16Feb2025 04:49:13.487] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[16Feb2025 04:49:13.487] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -3] Saved.
+[16Feb2025 04:49:13.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[16Feb2025 04:49:13.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[16Feb2025 04:49:13.499] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[16Feb2025 04:49:13.500] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[16Feb2025 04:49:13.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 04:49:13.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 04:49:13.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:50:03.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set mostro321's game mode to Creative Mode]
+[16Feb2025 04:50:13.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set mostro321's game mode to Survival Mode]
+[16Feb2025 04:50:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Never more.]
+[16Feb2025 04:50:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [They're out there...]
+[16Feb2025 04:50:22.063] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[16Feb2025 04:50:22.065] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[16Feb2025 04:50:44.012] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Feb2025 04:51:11.223] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[16Feb2025 04:51:14.600] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.339] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.394] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.403] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.744] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.825] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.830] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.835] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.892] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:15.900] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[16Feb2025 04:51:52.687] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104

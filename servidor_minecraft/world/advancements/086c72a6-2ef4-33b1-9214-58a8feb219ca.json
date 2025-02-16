@@ -301,6 +301,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-16 04:47:42 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-15 03:45:17 +0000"
@@ -409,6 +415,7 @@
       "shrubland": "2025-02-15 05:20:45 +0000",
       "rocky_shrubland": "2025-02-15 05:10:19 +0000",
       "highland": "2025-02-15 04:57:31 +0000",
+      "clover_patch": "2025-02-16 04:46:44 +0000",
       "mystic_grove": "2025-02-15 04:52:41 +0000",
       "old_growth_woodland": "2025-02-15 04:39:19 +0000",
       "dryland": "2025-02-15 04:10:26 +0000",
@@ -432,6 +439,7 @@
       "minecraft:forest": "2025-02-15 04:24:28 +0000",
       "minecraft:desert": "2025-02-15 03:45:17 +0000",
       "minecraft:jungle": "2025-02-15 04:46:41 +0000",
+      "minecraft:warm_ocean": "2025-02-16 04:41:48 +0000",
       "minecraft:meadow": "2025-02-15 05:13:51 +0000",
       "minecraft:plains": "2025-02-15 04:31:29 +0000"
     },

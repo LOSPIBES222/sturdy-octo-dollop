@@ -1084,3 +1084,23 @@
 [16Feb2025 04:33:37.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Removed 1 members from team [mostro321]]
 [16Feb2025 04:37:58.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
 [16Feb2025 04:38:19.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 04:46:16.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[16Feb2025 04:46:27.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to -869.500000, 72.500000, -1033.500000]
+[16Feb2025 04:46:35.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:46:44.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported ariel231 to Midab]
+[16Feb2025 04:46:50.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[16Feb2025 04:47:42.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ariel231 has made the advancement [Amateur Archaeologist]
+[16Feb2025 04:47:51.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [Never more.]
+[16Feb2025 04:47:51.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 has made the advancement [They're out there...]
+[16Feb2025 04:48:46.875] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[16Feb2025 04:48:47.776] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[16Feb2025 04:48:48.675] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[16Feb2025 04:48:56.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to mostro321]
+[16Feb2025 04:49:05.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: mostro321 drowned whilst trying to escape Zombie
+[16Feb2025 04:49:06.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[16Feb2025 04:49:06.975] [Server thread/INFO] [tac/]: PENDING
+[16Feb2025 04:49:13.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported mostro321 to Midab]
+[16Feb2025 04:50:03.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set mostro321's game mode to Creative Mode]
+[16Feb2025 04:50:13.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set mostro321's game mode to Survival Mode]
+[16Feb2025 04:50:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Never more.]
+[16Feb2025 04:50:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [They're out there...]
