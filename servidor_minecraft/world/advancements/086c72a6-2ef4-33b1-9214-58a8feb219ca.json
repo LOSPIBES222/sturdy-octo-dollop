@@ -277,6 +277,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-02-16 04:32:06 +0000"
+    },
+    "done": true
+  },
   "crossbowverhaul:recipes/combat/bolt_diamond": {
     "criteria": {
       "has_ingot": "2025-02-15 05:03:20 +0000"
@@ -286,6 +292,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-15 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 04:36:00 +0000"
     },
     "done": true
   },
@@ -551,6 +563,12 @@
       "minecraft:zombie": "2025-02-15 04:03:47 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-02-16 04:35:57 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/craft_knife": {
     "criteria": {

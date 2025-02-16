@@ -175,7 +175,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-02-15 04:09:15 +0000"
+      "cooked_beef": "2025-02-15 04:09:15 +0000",
+      "potato": "2025-02-16 04:33:54 +0000"
     },
     "done": false
   },
