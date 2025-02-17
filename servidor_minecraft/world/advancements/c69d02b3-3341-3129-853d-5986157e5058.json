@@ -366,6 +366,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-17 03:17:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-02-17 02:53:00 +0000",
@@ -564,6 +570,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-17 03:17:25 +0000"
     },
     "done": true
   },

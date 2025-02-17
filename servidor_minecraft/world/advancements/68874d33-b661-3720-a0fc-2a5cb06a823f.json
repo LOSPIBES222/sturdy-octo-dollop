@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-17 03:16:55 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:42:09 +0000"
@@ -380,6 +386,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2025-02-17 02:53:34 +0000",
+      "redwood_forest": "2025-02-17 03:15:49 +0000",
       "grassland": "2025-02-17 02:54:46 +0000"
     },
     "done": false
@@ -449,6 +456,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-17 03:16:14 +0000"
     },
     "done": true
   },

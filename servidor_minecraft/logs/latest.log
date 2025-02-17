@@ -1168,3 +1168,35 @@
 [17Feb2025 03:18:15.830] [Server thread/INFO] [tac/]: PENDING
 [17Feb2025 03:18:26.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to -898.500000, 78.500000, -1045.500000]
 [17Feb2025 03:19:14.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[17Feb2025 03:19:50.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 03:20:50.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to Midab]
+[17Feb2025 03:24:01.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the weather to clear]
+[17Feb2025 03:24:32.085] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[17Feb2025 03:25:24.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:25:41.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s was annihilated by Midab
+[17Feb2025 03:25:42.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['bluk4s'/293104, l='ServerLevel[world]', x=-823.69, y=78.00, z=-948.42] died: entity.hordes.ZombiePlayer.chat was annihilated by Midab
+[17Feb2025 03:25:42.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:25:42.431] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:25:48.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:26:51.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:27:49.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eluno7272> tr
+[17Feb2025 03:28:18.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Removed Midab from any team]
+[17Feb2025 03:28:52.551] [Server thread/INFO] [sereneseasons/]: Season time skipped by 16334 in minecraft:overworld
+[17Feb2025 03:28:52.575] [Server thread/INFO] [sereneseasons/]: Season time skipped by 16334 in minecraft:the_nether
+[17Feb2025 03:28:52.575] [Server thread/INFO] [sereneseasons/]: Season time skipped by 16334 in lostcities:lostcity
+[17Feb2025 03:28:52.575] [Server thread/INFO] [sereneseasons/]: Season time skipped by 16334 in deceasedcraft:abyss
+[17Feb2025 03:28:52.576] [Server thread/INFO] [sereneseasons/]: Season time skipped by 16334 in minecraft:the_end
+[17Feb2025 03:28:53.001] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11992 in minecraft:overworld
+[17Feb2025 03:28:53.024] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11992 in minecraft:the_nether
+[17Feb2025 03:28:53.025] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11992 in lostcities:lostcity
+[17Feb2025 03:28:53.025] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11992 in deceasedcraft:abyss
+[17Feb2025 03:28:53.025] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11992 in minecraft:the_end
+[17Feb2025 03:28:53.151] [Server thread/INFO] [sereneseasons/]: Season time skipped by 23998 in minecraft:overworld
+[17Feb2025 03:28:53.165] [Server thread/INFO] [sereneseasons/]: Season time skipped by 23998 in minecraft:the_nether
+[17Feb2025 03:28:53.165] [Server thread/INFO] [sereneseasons/]: Season time skipped by 23998 in lostcities:lostcity
+[17Feb2025 03:28:53.166] [Server thread/INFO] [sereneseasons/]: Season time skipped by 23998 in deceasedcraft:abyss
+[17Feb2025 03:28:53.166] [Server thread/INFO] [sereneseasons/]: Season time skipped by 23998 in minecraft:the_end
+[17Feb2025 03:29:22.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab was slain by The Wheezer
+[17Feb2025 03:29:23.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:29:23.642] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:29:32.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to bluk4s]
