@@ -169,7 +169,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-17 02:49:04 +0000"
+      "bread": "2025-02-17 02:49:04 +0000",
+      "rotten_flesh": "2025-02-17 03:33:06 +0000"
     },
     "done": false
   },

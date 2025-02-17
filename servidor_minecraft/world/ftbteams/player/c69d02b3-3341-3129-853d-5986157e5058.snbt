@@ -2,9 +2,7 @@
 	id: "c69d02b3-3341-3129-853d-5986157e5058"
 	type: "player"
 	player_name: "bluk4s"
-	ranks: {
-		c69d02b3-3341-3129-853d-5986157e5058: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "bluk4s"
 		"ftbteams:description": ""

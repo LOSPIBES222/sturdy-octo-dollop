@@ -1,0 +1,17 @@
+{
+	id: "79cc8d45-5429-45c6-a8ac-a6316393920a"
+	type: "party"
+	owner: "c69d02b3-3341-3129-853d-5986157e5058"
+	ranks: {
+		c69d02b3-3341-3129-853d-5986157e5058: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "truki"
+		"ftbteams:description": "a"
+		"ftbteams:color": "#B9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1739762869322L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"bluk4s\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }]
+	extra: { }
+}

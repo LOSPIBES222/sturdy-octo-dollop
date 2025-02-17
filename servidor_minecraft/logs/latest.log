@@ -1200,3 +1200,44 @@
 [17Feb2025 03:29:23.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [17Feb2025 03:29:23.642] [Server thread/INFO] [tac/]: PENDING
 [17Feb2025 03:29:32.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to bluk4s]
+[17Feb2025 03:31:00.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 was slain by LUKETI333
+[17Feb2025 03:31:01.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:31:01.534] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:31:12.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to LUKETI333]
+[17Feb2025 03:32:36.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eluno7272> trtre
+[17Feb2025 03:32:46.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:46.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:47.216] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:47.216] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:47.816] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:47.816] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:48.417] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:48.417] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:49.016] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:49.016] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:49.616] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:49.616] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:50.219] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:50.219] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:50.412] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:50.412] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:50.815] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:51.420] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:32:52.016] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Feb2025 03:33:53.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Keep Going]
+[17Feb2025 03:34:05.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Acquire Hardware]
+[17Feb2025 03:34:42.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 hit the ground too hard
+[17Feb2025 03:34:43.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:34:43.629] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:34:47.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:34:53.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['LUKETI333'/360025, l='ServerLevel[world]', x=-902.30, y=68.30, z=-1017.70] died: entity.hordes.ZombiePlayer.chat was slain by eluno7272
+[17Feb2025 03:34:54.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported LUKETI333 to eluno7272]
+[17Feb2025 03:35:18.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Diamonds!]
+[17Feb2025 03:35:22.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:35:30.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:37:33.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Close Quarters]
+[17Feb2025 03:37:53.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Refined Storage]
+[17Feb2025 03:37:55.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Disme A Dozen]
+[17Feb2025 03:39:19.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Added Midab to team [intelligentmobs]]
+[17Feb2025 03:39:35.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to bluk4s]
+[17Feb2025 03:39:53.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Connecting]
