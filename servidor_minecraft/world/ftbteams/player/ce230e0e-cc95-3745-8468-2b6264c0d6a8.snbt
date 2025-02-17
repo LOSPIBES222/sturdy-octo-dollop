@@ -1,0 +1,15 @@
+{
+	id: "ce230e0e-cc95-3745-8468-2b6264c0d6a8"
+	type: "player"
+	player_name: "eluno7272"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "eluno7272"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

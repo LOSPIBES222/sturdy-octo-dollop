@@ -1,0 +1,15 @@
+{
+	id: "68874d33-b661-3720-a0fc-2a5cb06a823f"
+	type: "player"
+	player_name: "LUKETI333"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "LUKETI333"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

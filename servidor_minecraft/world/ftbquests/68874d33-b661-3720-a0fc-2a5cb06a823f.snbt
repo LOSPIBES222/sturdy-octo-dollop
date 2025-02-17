@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "68874d33b6613720a0fc2a5cb06a823f"
+	name: "LUKETI333"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1739760130954L
+		4523079E2318BD94: 1739760130954L
+		2583DDB195B6CFEA: 1739760130954L
+		0000000000000001: 1739760130954L
+		2C6177EDC934F9DC: 1739760130955L
+		047C5CB3ED9A8E47: 1739760130955L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

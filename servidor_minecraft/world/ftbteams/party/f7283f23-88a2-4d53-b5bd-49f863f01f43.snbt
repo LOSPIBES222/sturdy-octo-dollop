@@ -1,0 +1,22 @@
+{
+	id: "f7283f23-88a2-4d53-b5bd-49f863f01f43"
+	type: "party"
+	owner: "68874d33-b661-3720-a0fc-2a5cb06a823f"
+	ranks: {
+		68874d33-b661-3720-a0fc-2a5cb06a823f: "owner"
+		ce230e0e-cc95-3745-8468-2b6264c0d6a8: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "LUKETI333's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739760375537L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"LUKETI333\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "68874d33-b661-3720-a0fc-2a5cb06a823f", date: 1739760375542L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"eluno7272\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739760390649L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"eluno7272\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "c69d02b3-3341-3129-853d-5986157e5058"
+	type: "player"
+	player_name: "bluk4s"
+	ranks: {
+		c69d02b3-3341-3129-853d-5986157e5058: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "bluk4s"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
