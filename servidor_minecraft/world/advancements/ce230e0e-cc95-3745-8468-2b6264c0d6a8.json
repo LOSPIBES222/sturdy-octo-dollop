@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-17 04:32:38 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:42:10 +0000"
@@ -414,7 +420,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-17 04:37:30 +0000",
       "minecraft:beach": "2025-02-17 03:20:06 +0000",
+      "minecraft:dark_forest": "2025-02-17 04:37:55 +0000",
       "minecraft:river": "2025-02-17 02:42:57 +0000",
       "minecraft:grove": "2025-02-17 04:24:54 +0000",
       "minecraft:forest": "2025-02-17 03:59:11 +0000",
@@ -557,6 +565,12 @@
       "minecraft:zombie": "2025-02-17 03:00:54 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-17 04:31:19 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {

@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-02-17 04:37:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:52:15 +0000"
@@ -542,6 +548,12 @@
       "minecraft:zombie": "2025-02-17 02:59:12 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-17 04:31:19 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {

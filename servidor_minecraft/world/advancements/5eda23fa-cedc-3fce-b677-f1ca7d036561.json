@@ -224,6 +224,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2025-02-17 04:40:23 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-02-14 23:09:43 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2025-02-17 04:31:18 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:extreme_temps": {
     "criteria": {
       "requirement": "2025-02-14 23:09:43 +0000"
@@ -584,12 +596,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:creeper": "2025-02-15 03:53:10 +0000",
+      "minecraft:witch": "2025-02-17 04:31:22 +0000",
       "minecraft:husk": "2025-02-15 03:56:27 +0000",
       "minecraft:zombie": "2025-02-15 03:56:45 +0000",
       "minecraft:drowned": "2025-02-15 04:23:05 +0000",
       "minecraft:zombie_villager": "2025-02-15 04:37:06 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-17 04:31:19 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {

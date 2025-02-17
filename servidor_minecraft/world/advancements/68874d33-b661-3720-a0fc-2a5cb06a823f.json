@@ -435,11 +435,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-17 04:37:41 +0000",
+      "minecraft:dark_forest": "2025-02-17 04:38:11 +0000",
       "minecraft:river": "2025-02-17 02:42:59 +0000",
       "minecraft:grove": "2025-02-17 04:24:36 +0000",
       "minecraft:forest": "2025-02-17 03:59:14 +0000",
       "minecraft:desert": "2025-02-17 02:42:09 +0000",
       "minecraft:warm_ocean": "2025-02-17 02:44:46 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-17 04:37:49 +0000",
       "minecraft:meadow": "2025-02-17 04:00:54 +0000"
     },
     "done": false
@@ -571,6 +574,12 @@
       "minecraft:zombie_villager": "2025-02-17 03:39:31 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-17 04:31:19 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {
