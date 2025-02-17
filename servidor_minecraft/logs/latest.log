@@ -1316,3 +1316,27 @@
 [17Feb2025 04:19:03.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
 [17Feb2025 04:19:06.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [HAMMAH!]
 [17Feb2025 04:20:08.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has reached the goal [Modern Materials]
+[17Feb2025 04:22:06.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 died
+[17Feb2025 04:22:10.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 04:22:10.346] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 04:22:18.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to LUKETI333]
+[17Feb2025 04:23:18.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Penteconter]
+[17Feb2025 04:23:43.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s was slain by Midab
+[17Feb2025 04:23:45.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 04:23:45.120] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 04:23:45.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['bluk4s'/711785, l='ServerLevel[world]', x=-1527.75, y=96.56, z=-660.98] died: entity.hordes.ZombiePlayer.chat was slain by Midab
+[17Feb2025 04:24:30.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 burned to death
+[17Feb2025 04:24:32.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 04:24:32.423] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 04:24:35.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to LUKETI333]
+[17Feb2025 04:24:38.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[17Feb2025 04:25:01.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 04:25:47.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 was slain by The Wheezer
+[17Feb2025 04:25:48.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 04:25:48.377] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 04:25:51.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to LUKETI333]
+[17Feb2025 04:25:56.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set eluno7272's game mode to Creative Mode]
+[17Feb2025 04:26:21.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['eluno7272'/716664, l='ServerLevel[world]', x=-1606.53, y=85.00, z=-653.67] died: entity.hordes.ZombiePlayer.chat was slain by LUKETI333
+[17Feb2025 04:26:33.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to Midab]
+[17Feb2025 04:26:53.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set eluno7272's game mode to Survival Mode]
+[17Feb2025 04:27:02.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported LUKETI333 to Midab]
