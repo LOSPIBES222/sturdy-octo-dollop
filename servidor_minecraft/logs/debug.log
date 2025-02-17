@@ -19089,3 +19089,338 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Feb2025 02:58:35.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
 [17Feb2025 02:58:35.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
 [17Feb2025 02:58:35.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 02:59:12.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Monster Hunter]
+[17Feb2025 02:59:15.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Diamonds!]
+[17Feb2025 02:59:46.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Crops of the Wild]
+[17Feb2025 02:59:59.660] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[17Feb2025 03:00:12.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Sweet Dreams]
+[17Feb2025 03:00:21.151] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[17Feb2025 03:00:21.151] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[17Feb2025 03:00:28.728] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[17Feb2025 03:00:28.729] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[17Feb2025 03:00:28.730] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[17Feb2025 03:00:28.745] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[17Feb2025 03:00:28.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:00:28.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:00:42.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement ['X' Marks the Spot]
+[17Feb2025 03:00:54.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Monster Hunter]
+[17Feb2025 03:01:07.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 03:01:25.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s was slain by Midab
+[17Feb2025 03:01:27.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:01:27.381] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:01:27.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['bluk4s'/134973, l='ServerLevel[world]', x=-867.54, y=78.00, z=-966.06] died: entity.hordes.ZombiePlayer.chat was slain by Midab
+[17Feb2025 03:01:32.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:02:11.820] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[17Feb2025 03:02:14.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['LUKETI333'/89912, l='ServerLevel[world]', x=-880.30, y=72.00, z=-976.30] died: entity.hordes.ZombiePlayer.chat was taken down by LUKETI333
+[17Feb2025 03:02:27.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:03:01.867] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[17Feb2025 03:03:15.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 was slain by Midab
+[17Feb2025 03:03:18.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:03:18.796] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:03:22.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to Midab]
+[17Feb2025 03:03:22.796] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[17Feb2025 03:03:41.301] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[17Feb2025 03:03:42.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the weather to clear]
+[17Feb2025 03:03:49.183] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.423] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.476] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.524] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.534] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.573] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.624] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.692] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.733] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.774] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.824] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.829] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.925] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.943] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:49.984] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.027] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.030] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.070] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.123] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.137] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.182] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.225] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.286] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.320] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.326] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.371] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.440] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.451] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:03:50.490] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:04:32.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Acquire Hardware]
+[17Feb2025 03:04:38.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[17Feb2025 03:04:43.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Diamonds!]
+[17Feb2025 03:04:59.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 was slain by Zombie
+[17Feb2025 03:04:59.936] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Feb2025 03:04:59.937] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[17Feb2025 03:04:59.937] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[17Feb2025 03:04:59.937] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Feb2025 03:04:59.938] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[17Feb2025 03:05:01.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:05:01.126] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:05:09.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 03:05:17.231] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:17.472] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:17.479] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:17.524] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:17.580] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:17.633] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:17.638] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:17.674] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:18.077] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:18.427] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:19.027] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:24.731] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:05:28.726] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[17Feb2025 03:05:28.726] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[17Feb2025 03:05:28.727] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[17Feb2025 03:05:28.743] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[17Feb2025 03:05:28.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:05:28.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:05:30.241] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:05:30.732] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:05:40.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:05:48.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:05:50.599] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:50.838] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:50.867] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:50.934] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:50.941] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:50.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:05:51.020] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:06:56.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:06:58.485] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:06:58.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:06:58.817] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:06:58.842] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:06:58.867] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:06:58.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:06:58.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:01.251] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[17Feb2025 03:07:01.580] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.118] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.119] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.131] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.181] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.184] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.233] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.284] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.334] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.337] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.381] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.435] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:02.438] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=false, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:03.482] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:03.725] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:03.775] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:03.819] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:03.820] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:03.880] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:04.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> asd
+[17Feb2025 03:07:05.632] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of LUKETI333: {disabled=true, disconnected=false, uuid=68874d33-b661-3720-a0fc-2a5cb06a823f, name=LUKETI333, group=null}
+[17Feb2025 03:07:06.594] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of bluk4s: {disabled=true, disconnected=false, uuid=c69d02b3-3341-3129-853d-5986157e5058, name=bluk4s, group=null}
+[17Feb2025 03:07:06.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:06.925] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:06.977] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:07.119] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of bluk4s: {disabled=false, disconnected=false, uuid=c69d02b3-3341-3129-853d-5986157e5058, name=bluk4s, group=null}
+[17Feb2025 03:07:07.121] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of bluk4s: {disabled=true, disconnected=false, uuid=c69d02b3-3341-3129-853d-5986157e5058, name=bluk4s, group=null}
+[17Feb2025 03:07:07.170] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of bluk4s: {disabled=false, disconnected=false, uuid=c69d02b3-3341-3129-853d-5986157e5058, name=bluk4s, group=null}
+[17Feb2025 03:07:07.189] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of bluk4s: {disabled=true, disconnected=false, uuid=c69d02b3-3341-3129-853d-5986157e5058, name=bluk4s, group=null}
+[17Feb2025 03:07:07.242] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of bluk4s: {disabled=false, disconnected=false, uuid=c69d02b3-3341-3129-853d-5986157e5058, name=bluk4s, group=null}
+[17Feb2025 03:07:07.645] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of bluk4s: {disabled=true, disconnected=false, uuid=c69d02b3-3341-3129-853d-5986157e5058, name=bluk4s, group=null}
+[17Feb2025 03:07:08.484] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:11.119] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:13.724] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:13.983] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:15.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Stone Age]
+[17Feb2025 03:07:17.377] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:25.927] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:28.422] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:28.682] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:28.735] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:29.529] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:35.282] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:35.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:35.585] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:35.638] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.175] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.426] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.472] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.542] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.573] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.632] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.638] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.678] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.784] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:07:40.789] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:08:10.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to Midab]
+[17Feb2025 03:08:13.622] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[17Feb2025 03:08:16.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Getting an Upgrade]
+[17Feb2025 03:09:17.095] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:09:17.331] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:09:17.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:09:17.424] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:09:17.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:09:17.488] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:09:17.571] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:09:43.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s was slain by Zombie
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[17Feb2025 03:09:47.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:09:47.925] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:09:57.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:10:21.201] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[17Feb2025 03:10:21.201] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[17Feb2025 03:10:28.729] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[17Feb2025 03:10:28.729] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[17Feb2025 03:10:28.730] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[17Feb2025 03:10:28.730] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[17Feb2025 03:10:28.731] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -3] Saved.
+[17Feb2025 03:10:28.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:10:28.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:11:14.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [A Glorious Feast]
+[17Feb2025 03:13:25.292] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:13:25.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:13:41.351] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[17Feb2025 03:14:21.465] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[17Feb2025 03:14:32.028] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:15:06.269] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[17Feb2025 03:15:28.745] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[17Feb2025 03:15:28.746] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[17Feb2025 03:15:28.746] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[17Feb2025 03:15:28.747] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[17Feb2025 03:15:28.747] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[17Feb2025 03:15:28.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 03:15:28.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 03:16:14.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Disme A Dozen]
+[17Feb2025 03:16:55.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Isn't It Iron Pick]
+[17Feb2025 03:17:00.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Stone Age]
+[17Feb2025 03:17:01.301] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[17Feb2025 03:17:09.575] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:09.826] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:09.834] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:09.878] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:09.930] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:09.939] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:09.985] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.035] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.045] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.077] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.129] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.177] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.224] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.282] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.327] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.335] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.379] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.431] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.439] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.483] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.546] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.592] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.598] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.636] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.726] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.733] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.777] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.826] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.835] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.892] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.892] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.928] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:10.995] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:11.019] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:11.027] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=true, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:11.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Midab: {disabled=false, disconnected=false, uuid=5eda23fa-cedc-3fce-b677-f1ca7d036561, name=Midab, group=null}
+[17Feb2025 03:17:12.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Stone Age]
+[17Feb2025 03:17:25.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Getting an Upgrade]
+[17Feb2025 03:17:44.412] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[17Feb2025 03:17:54.924] [Worker-Main10/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Feb2025 03:18:12.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab died because of Zombie Villager
+[17Feb2025 03:18:15.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:18:15.830] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:18:18.954] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa1
+[17Feb2025 03:18:18.964] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa2
+[17Feb2025 03:18:18.968] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruinas1
+[17Feb2025 03:18:18.970] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower1
+[17Feb2025 03:18:18.972] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa3
+[17Feb2025 03:18:18.976] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[17Feb2025 03:18:18.981] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[17Feb2025 03:18:18.989] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[17Feb2025 03:18:19.039] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[17Feb2025 03:18:19.074] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa4
+[17Feb2025 03:18:19.083] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa5
+[17Feb2025 03:18:19.088] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa6
+[17Feb2025 03:18:19.104] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa7
+[17Feb2025 03:18:19.119] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa8
+[17Feb2025 03:18:19.128] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa9
+[17Feb2025 03:18:19.140] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina3
+[17Feb2025 03:18:19.146] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina4
+[17Feb2025 03:18:19.149] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina5
+[17Feb2025 03:18:19.152] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina6
+[17Feb2025 03:18:19.157] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina7
+[17Feb2025 03:18:19.164] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina8
+[17Feb2025 03:18:19.175] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina9
+[17Feb2025 03:18:19.179] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina10
+[17Feb2025 03:18:19.182] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina11
+[17Feb2025 03:18:19.184] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina12
+[17Feb2025 03:18:19.187] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina13
+[17Feb2025 03:18:19.189] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina14
+[17Feb2025 03:18:19.198] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina15
+[17Feb2025 03:18:19.220] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina16
+[17Feb2025 03:18:19.303] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[17Feb2025 03:18:19.329] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[17Feb2025 03:18:19.363] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[17Feb2025 03:18:19.431] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[17Feb2025 03:18:19.470] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[17Feb2025 03:18:19.541] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[17Feb2025 03:18:19.584] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:factory
+[17Feb2025 03:18:19.624] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:firefighter
+[17Feb2025 03:18:19.692] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:prision
+[17Feb2025 03:18:19.859] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:bases
+[17Feb2025 03:18:19.894] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:baselooters
+[17Feb2025 03:18:19.904] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[17Feb2025 03:18:19.973] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[17Feb2025 03:18:19.989] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[17Feb2025 03:18:19.993] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation1
+[17Feb2025 03:18:20.004] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation2
+[17Feb2025 03:18:20.010] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:medic1
+[17Feb2025 03:18:20.013] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:17
+[17Feb2025 03:18:20.014] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:1234
+[17Feb2025 03:18:20.019] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower3
+[17Feb2025 03:18:20.026] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[17Feb2025 03:18:20.033] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina18
+[17Feb2025 03:18:20.053] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina19
+[17Feb2025 03:18:20.065] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[17Feb2025 03:18:20.072] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa10
+[17Feb2025 03:18:20.088] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:construction1
+[17Feb2025 03:18:20.101] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gunstore
+[17Feb2025 03:18:20.190] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:city1
+[17Feb2025 03:18:20.343] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp1
+[17Feb2025 03:18:20.346] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp2
+[17Feb2025 03:18:20.350] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:cabine
+[17Feb2025 03:18:20.407] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:canada1
+[17Feb2025 03:18:20.428] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:desert1
+[17Feb2025 03:18:26.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to -898.500000, 78.500000, -1045.500000]
+[17Feb2025 03:18:26.924] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[17Feb2025 03:18:27.948] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[17Feb2025 03:18:27.949] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[17Feb2025 03:18:39.476] [Worker-Main7/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:lighthouse
+[17Feb2025 03:19:14.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]

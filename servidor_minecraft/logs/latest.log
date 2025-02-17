@@ -1110,3 +1110,61 @@
 [17Feb2025 02:57:29.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [First Day]
 [17Feb2025 02:57:29.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [First Day]
 [17Feb2025 02:58:24.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <bluk4s> a
+[17Feb2025 02:59:12.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Monster Hunter]
+[17Feb2025 02:59:15.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Diamonds!]
+[17Feb2025 02:59:46.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Crops of the Wild]
+[17Feb2025 03:00:12.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Sweet Dreams]
+[17Feb2025 03:00:42.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement ['X' Marks the Spot]
+[17Feb2025 03:00:54.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Monster Hunter]
+[17Feb2025 03:01:07.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 03:01:25.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s was slain by Midab
+[17Feb2025 03:01:27.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:01:27.381] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:01:27.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['bluk4s'/134973, l='ServerLevel[world]', x=-867.54, y=78.00, z=-966.06] died: entity.hordes.ZombiePlayer.chat was slain by Midab
+[17Feb2025 03:01:32.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:02:14.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['LUKETI333'/89912, l='ServerLevel[world]', x=-880.30, y=72.00, z=-976.30] died: entity.hordes.ZombiePlayer.chat was taken down by LUKETI333
+[17Feb2025 03:02:27.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:03:15.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 was slain by Midab
+[17Feb2025 03:03:18.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:03:18.796] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:03:22.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to Midab]
+[17Feb2025 03:03:42.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set the weather to clear]
+[17Feb2025 03:04:32.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Acquire Hardware]
+[17Feb2025 03:04:38.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[17Feb2025 03:04:43.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Diamonds!]
+[17Feb2025 03:04:59.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 was slain by Zombie
+[17Feb2025 03:04:59.936] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Feb2025 03:04:59.937] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[17Feb2025 03:04:59.937] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 book
+[17Feb2025 03:04:59.937] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Feb2025 03:04:59.938] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[17Feb2025 03:05:01.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:05:01.126] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:05:09.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 03:05:40.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:05:48.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:06:56.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> a
+[17Feb2025 03:07:04.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <LUKETI333> asd
+[17Feb2025 03:07:15.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Stone Age]
+[17Feb2025 03:08:10.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to Midab]
+[17Feb2025 03:08:16.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Getting an Upgrade]
+[17Feb2025 03:09:43.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s was slain by Zombie
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Feb2025 03:09:43.550] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[17Feb2025 03:09:47.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:09:47.925] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:09:57.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:11:14.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [A Glorious Feast]
+[17Feb2025 03:16:14.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Disme A Dozen]
+[17Feb2025 03:16:55.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Isn't It Iron Pick]
+[17Feb2025 03:17:00.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Stone Age]
+[17Feb2025 03:17:12.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Stone Age]
+[17Feb2025 03:17:25.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Getting an Upgrade]
+[17Feb2025 03:18:12.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab died because of Zombie Villager
+[17Feb2025 03:18:15.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:18:15.830] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:18:26.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to -898.500000, 78.500000, -1045.500000]
+[17Feb2025 03:19:14.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
