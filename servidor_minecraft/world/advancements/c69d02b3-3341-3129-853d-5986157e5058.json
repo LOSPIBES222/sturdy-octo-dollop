@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-17 03:56:11 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:52:15 +0000"
@@ -452,6 +458,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-17 03:47:18 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:52:15 +0000"
@@ -615,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-17 03:55:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:52:15 +0000"
@@ -625,6 +643,12 @@
     "criteria": {
       "has_blazepowder": "2025-02-17 02:52:15 +0000",
       "has_bolt": "2025-02-17 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_feather": "2025-02-17 03:54:40 +0000"
     },
     "done": true
   },

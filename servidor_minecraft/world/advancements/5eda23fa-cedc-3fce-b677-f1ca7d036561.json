@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-17 03:57:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-02-14 23:09:43 +0000"
@@ -411,6 +417,12 @@
       "rainforest": "2025-02-15 04:46:22 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-17 03:46:49 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -654,6 +666,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-02-14 23:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-17 03:47:30 +0000"
     },
     "done": true
   },
