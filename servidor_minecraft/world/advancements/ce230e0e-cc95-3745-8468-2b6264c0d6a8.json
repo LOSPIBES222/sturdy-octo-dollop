@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-02-17 03:39:53 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-02-17 02:42:10 +0000"
@@ -385,6 +391,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-02-17 03:44:40 +0000",
       "clover_patch": "2025-02-17 02:53:25 +0000",
       "redwood_forest": "2025-02-17 03:20:47 +0000",
       "grassland": "2025-02-17 02:54:48 +0000"
@@ -458,6 +465,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-17 03:37:55 +0000"
     },
     "done": true
   },

@@ -367,6 +367,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2025-02-17 03:37:29 +0000",
       "highland": "2025-02-17 03:29:22 +0000",
       "clover_patch": "2025-02-17 03:08:19 +0000",
       "mystic_grove": "2025-02-17 03:26:52 +0000",
@@ -382,9 +383,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-02-17 03:43:33 +0000",
       "minecraft:river": "2025-02-17 02:53:00 +0000",
+      "minecraft:forest": "2025-02-17 03:45:01 +0000",
       "minecraft:desert": "2025-02-17 02:52:15 +0000",
-      "minecraft:warm_ocean": "2025-02-17 02:54:39 +0000"
+      "minecraft:warm_ocean": "2025-02-17 02:54:39 +0000",
+      "minecraft:meadow": "2025-02-17 03:43:11 +0000"
     },
     "done": false
   },
@@ -397,6 +401,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-17 03:45:25 +0000"
     },
     "done": true
   },

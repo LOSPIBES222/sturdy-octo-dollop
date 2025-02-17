@@ -1241,3 +1241,25 @@
 [17Feb2025 03:39:19.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Added Midab to team [intelligentmobs]]
 [17Feb2025 03:39:35.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported Midab to bluk4s]
 [17Feb2025 03:39:53.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 has made the advancement [Connecting]
+[17Feb2025 03:41:59.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 was slain by The Pregnant
+[17Feb2025 03:41:59.648] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Feb2025 03:41:59.648] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 26 is dual wielding: false
+[17Feb2025 03:41:59.649] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[17Feb2025 03:41:59.649] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[17Feb2025 03:41:59.649] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[17Feb2025 03:42:02.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 03:42:02.292] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 03:42:09.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to LUKETI333]
+[17Feb2025 03:45:00.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported bluk4s to Midab]
+[17Feb2025 03:45:20.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Sweet Dreams]
+[17Feb2025 03:45:25.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Sweet Dreams]
+[17Feb2025 03:45:43.567] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9793 in minecraft:the_nether
+[17Feb2025 03:45:43.568] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9793 in lostcities:lostcity
+[17Feb2025 03:45:43.568] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9793 in deceasedcraft:abyss
+[17Feb2025 03:45:43.569] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9793 in minecraft:the_end
+[17Feb2025 03:45:43.601] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9793 in minecraft:overworld
+[17Feb2025 03:46:49.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Stone Age]
+[17Feb2025 03:47:18.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [Disme A Dozen]
+[17Feb2025 03:47:30.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Midab has made the advancement [Getting an Upgrade]
+[17Feb2025 03:49:28.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has made the advancement [Amateur Archaeologist]
+[17Feb2025 03:49:51.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]

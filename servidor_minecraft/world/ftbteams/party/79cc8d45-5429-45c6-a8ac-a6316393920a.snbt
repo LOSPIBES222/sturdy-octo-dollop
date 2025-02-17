@@ -8,8 +8,8 @@
 	properties: {
 		"ftbteams:display_name": "truki"
 		"ftbteams:description": "a"
-		"ftbteams:color": "#B9FF59"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:color": "#FF5979"
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 	}
 	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1739762869322L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"bluk4s\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }]
