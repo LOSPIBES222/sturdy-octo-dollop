@@ -19993,3 +19993,51 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Feb2025 04:10:28.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Feb2025 04:10:28.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Feb2025 04:10:38.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 04:10:55.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eluno7272 was slain by Midab
+[17Feb2025 04:10:57.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[17Feb2025 04:10:57.001] [Server thread/INFO] [tac/]: PENDING
+[17Feb2025 04:11:03.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported LUKETI333 to Midab]
+[17Feb2025 04:11:06.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Teleported eluno7272 to Midab]
+[17Feb2025 04:12:31.336] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[17Feb2025 04:12:31.336] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[17Feb2025 04:13:41.651] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[17Feb2025 04:14:11.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Midab> :blobcatjoy::blobcatcoffee::monka::monka::monka_gun::monka_gun:
+[17Feb2025 04:14:14.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Midab> :pear::grapes::grapes::grapes::grapes:
+[17Feb2025 04:14:15.271] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5438 in minecraft:the_nether
+[17Feb2025 04:14:15.271] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5438 in lostcities:lostcity
+[17Feb2025 04:14:15.272] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5438 in deceasedcraft:abyss
+[17Feb2025 04:14:15.272] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5438 in minecraft:the_end
+[17Feb2025 04:14:15.301] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5438 in minecraft:overworld
+[17Feb2025 04:14:16.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Midab> :eggplant:
+[17Feb2025 04:15:28.724] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-4, -2] Saved.
+[17Feb2025 04:15:28.725] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[17Feb2025 04:15:28.727] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[17Feb2025 04:15:28.727] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[17Feb2025 04:15:28.728] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[17Feb2025 04:15:28.736] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[17Feb2025 04:15:28.737] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[17Feb2025 04:15:28.738] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[17Feb2025 04:15:28.738] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[17Feb2025 04:15:28.739] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[17Feb2025 04:15:28.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 04:15:28.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 04:15:48.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Creative Mode]
+[17Feb2025 04:17:01.601] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[17Feb2025 04:17:04.559] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of eluno7272: {disabled=false, disconnected=false, uuid=ce230e0e-cc95-3745-8468-2b6264c0d6a8, name=eluno7272, group=null}
+[17Feb2025 04:17:23.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eluno7272> ty
+[17Feb2025 04:17:31.844] [IO-Worker-147/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[17Feb2025 04:19:03.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Midab: Set own game mode to Survival Mode]
+[17Feb2025 04:19:06.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bluk4s has made the advancement [HAMMAH!]
+[17Feb2025 04:19:38.520] [IO-Worker-149/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-151
+[17Feb2025 04:19:41.820] [IO-Worker-150/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-152
+[17Feb2025 04:20:08.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUKETI333 has reached the goal [Modern Materials]
+[17Feb2025 04:20:21.551] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[17Feb2025 04:20:21.551] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[17Feb2025 04:20:28.723] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-4, -2] Saved.
+[17Feb2025 04:20:28.723] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-4, -1] Saved.
+[17Feb2025 04:20:28.723] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-153
+[17Feb2025 04:20:28.724] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-154
+[17Feb2025 04:20:28.724] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-155
+[17Feb2025 04:20:28.726] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-156
+[17Feb2025 04:20:28.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 04:20:28.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

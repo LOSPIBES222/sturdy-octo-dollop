@@ -211,6 +211,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2025-02-17 04:20:08 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-02-17 02:42:09 +0000"

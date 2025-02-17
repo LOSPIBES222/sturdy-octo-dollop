@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-02-17 04:19:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_feast": {
     "criteria": {
       "roast_chicken": "2025-02-17 03:11:14 +0000"
